@@ -1,9 +1,9 @@
-baseURL: https://www.andrewheiss.com/
-title: Andrew Heiss
+baseURL: https://www.shagunjhaver.com/
+title: Shagun Jhaver
 theme: ah-hugo
 languageCode: en
 paginate: 20
-disqusShortname: andrewheisscom
+disqusShortname: shagunjhavercom
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 markup:
   goldmark:
@@ -34,17 +34,17 @@ taxonomies:
   month: month
 
 params:
-  author: Andrew Heiss
-  minibio: International NGOs, nonprofit management, authoritarianism, data science, and R
-  description: "Andrew Heiss is an assistant professor at Georgia State University, researching international NGOs and teaching data science & economics."
+  author: Shagun Jhaver 
+  minibio: Social computing, CSCW, HCI, content moderation, and online harassment
+  description: "Shagun Jhaver is an assistant professor at Rutgers University, researching content moderation and online harassment."
   research_order: [journal-article, working-paper, book-chapter, review, dormant-working-paper, selected-seminar-paper, translation]
   social:
-    twitter: andrewheiss
-    facebook: andrewheiss
+    twitter: shagunjhaver 
+    facebook: shagun.jhaver 
   images:
   - profiles/twitter-card-large.png
   feedIcon: profiles/square-bg.png
-  orcid: 0000-0002-3948-3914
+  orcid: 0000-0002-6728-7101
   pgp:
     key: pgp_ath.asc.txt
     fingerprint: 4AA2 FA83 A8B2 05A4 E30F<br /> 610D 1382 6216 9178 36AB
@@ -56,35 +56,27 @@ params:
   little_links:
     - icon: fa fa-envelope
       name: E-mail
-      url: "mailto:aheiss@gsu.edu"
+      url: "mailto:shagun.jhaver@rutgers.edu"
       weight: 1
     - icon: fab fa-twitter
       name: Twitter
-      url: https://twitter.com/andrewheiss
+      url: https://twitter.com/shagunjhaver
       weight: 2
     - icon: fab fa-github
       name: GitHub
-      url: https://github.com/andrewheiss
+      url: https://github.com/shaguniitb
       weight: 3
-    - icon: fab fa-youtube
-      name: YouTube
-      url: https://www.youtube.com/andrewheiss
-      weight: 4
-    - icon: fab fa-stack-overflow
-      name: StackOverflow
-      url: https://stackoverflow.com/users/120898/andrew
-      weight: 5
     - icon: fab fa-blogger
       name: Heissatopia (family blog)
       url: https://www.heissatopia.com
       weight: 6
     - icon: fab fa-facebook
       name: Facebook
-      url: https://www.facebook.com/andrewheiss
+      url: https://www.facebook.com/shagun.jhaver
       weight: 7
     - icon: fab fa-linkedin
       name: LinkedIn
-      url: https://www.linkedin.com/in/andrewheiss
+      url: https://www.linkedin.com/in/shagun-jhaver/
       weight: 8
 
 menu:

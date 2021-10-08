@@ -1,11 +1,9 @@
 ---
 title: "Hello there!"
-main_photo: /profiles/andrew-heiss-2016.jpg
-main_photo_square: /profiles/andrew-heiss-2016-square.jpg
+main_photo: /profiles/shagun-jhaver.jpg
+main_photo_square: /profiles/shagun-jhaver-square.jpg
 ---
 
-I'm an assistant professor in the [Department of Library and Information Science](https://comminfo.rutgers.edu/about/library-and-information-science-department/) at the [School of Communication and Information](https://comminfo.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I received a PhD in public policy and political science from Duke University's [Sanford School of Public Policy](http://sanford.duke.edu/) in 2017.
+I'm an Assistant Professor in the [Department of Library and Information Science](https://comminfo.rutgers.edu/about/library-and-information-science-department/) at the School of Communication and Information at Rutgers University. Prior to this, I was a Postdoctoral Scholar in the [Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington. I received a PhD in computer science from the [School of Interactive Computing](https://ic.gatech.edu/) at Georgia Tech.
 
-I study [how international NGOs work in authoritarian countries](https://www.ingoresearch.org/amicable-contempt/), and I received the 2016–2018 [Emerging Scholar Dissertation Award](https://www.istr.org/page/DissertationISTR) from the [International Society for Third Sector Research (ISTR)](https://www.istr.org/). I do research in public administration and policy, nonprofit management, international relations, and comparative politics.
-
-I teach courses on [program evaluation and causal inference](https://evalf20.classes.andrewheiss.com/), [statistics and data science](https://statsf18.classes.andrewheiss.com/), [data](https://datavizf18.classes.andrewheiss.com/) [visualization](https://datavizf17.classes.andrewheiss.com/), [economics](https://econw18.classes.andrewheiss.com/), and [science communication](https://storiesf17.classes.andrewheiss.com/). I'm also a [certified RStudio instructor](https://education.rstudio.com/trainers/people/heiss+andrew/) and absolutely love teaching how to use [R](https://www.r-project.org/) and [the tidyverse](https://www.tidyverse.org/).
+I study the governance mechanisms of internet platforms to understand how their design, technical affordances, and policies affect public discourse. I use a mixed methods approach, combining system building, casual inference of community data, surveys, and interviews to explore how platforms can address societal issues such as online harassment and the rise of hate groups.
