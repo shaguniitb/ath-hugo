@@ -52,23 +52,31 @@ params:
   blogPostDateFormat: Monday, January 2, 2006
   since: 2007
   googleanalytics: "UA-527449-5"
-  github_repo: https://github.com/andrewheiss/ath-hugo
+  github_repo: https://github.com/shaguniitb/ath-hugo
   little_links:
     - icon: fa fa-envelope
       name: E-mail
       url: "mailto:shagun.jhaver@rutgers.edu"
       weight: 1
-    - icon: fab fa-twitter
-      name: Twitter
-      url: https://twitter.com/shagunjhaver
-      weight: 2
+    - icon: fab fa-medium
+      name: Medium
+      url: "https://medium.com/@shagunjhaver"
+      weight: 2      
+    - icon: ai ai-google-scholar
+      name: Google Scholar
+      url: https://scholar.google.com/citations?user=OgtKT6UAAAAJ
+      weight: 3      
+    - icon: ai ai-acmdl-square
+      name: ACM Digital Library
+      url: https://dl.acm.org/author_page.cfm?id=99658987207
+      weight: 4
     - icon: fab fa-github
       name: GitHub
       url: https://github.com/shaguniitb
-      weight: 3
-    - icon: fab fa-blogger
-      name: Heissatopia (family blog)
-      url: https://www.heissatopia.com
+      weight: 5                        
+    - icon: fab fa-twitter
+      name: Twitter
+      url: https://twitter.com/shagunjhaver
       weight: 6
     - icon: fab fa-facebook
       name: Facebook
