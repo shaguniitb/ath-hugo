@@ -12,3 +12,4 @@ static/etc/*
 **/*_cache/*
 
 resources/_gen/*
+public
