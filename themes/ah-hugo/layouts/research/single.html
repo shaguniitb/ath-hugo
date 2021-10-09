@@ -16,6 +16,10 @@
             </div>
             {{ end }}
             <div class="project-details">
+                {{ if .Params.award }}
+                    <p> <span class="paper-award"> <i class="{{ .Params.award.icon }}"></i> <b>{{ .Params.award.status }}</b> </span> </p>
+                {{ end }}
+                
                 <div class="publication-content">
                     <p>{{ .Params.citation | markdownify }}</p>
                 </div>

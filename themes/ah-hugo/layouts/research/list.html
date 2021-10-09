@@ -27,6 +27,9 @@
     <ul>
         {{ range $value.Pages }}
         <li class="project">
+            {{ if .Params.award }}
+                <p> <span class="paper-award"> <i class="{{ .Params.award.icon }}"></i> <b>{{ .Params.award.status }}</b> </span> </p>
+            {{ end }}
             <div class="project-content">
                 <p>{{ if .Params.pub_status }}<span class="status btn-{{ .Params.pub_status.class }}"><i class="fas {{ .Params.pub_status.icon }}"></i> {{ .Params.pub_status.status }}</span> {{ end }}{{ .Params.citation | markdownify }}</p>
             </div>
