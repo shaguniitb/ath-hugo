@@ -26,7 +26,7 @@ links:
   icon: fab fa-slideshare
   local: true  
 citation: >-
-  **Shagun Jhaver**, Christian Boylston, Diyi Yang, and Amy Bruckman, “Evaluating the Effectiveness of Deplatforming as a Moderation Strategy on Twitter,” *Proc. ACM Hum.-Comput. Interact. 5*, CSCW2, Article 381 (October 2021), 30 pages, doi: [`10.1145/3479525`](https://doi.org/10.1145/3479525) 
+  **Shagun Jhaver**, Christian Boylston, [Diyi Yang](https://www.cc.gatech.edu/~dyang888/), and [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), “Evaluating the Effectiveness of Deplatforming as a Moderation Strategy on Twitter,” *Proc. ACM Hum.-Comput. Interact. 5*, CSCW2, Article 381 (October 2021), 30 pages, DOI: [`10.1145/3479525`](https://doi.org/10.1145/3479525) 
 haiku: >-
   Deplatforming disrupts / ideas and support for / offensive influencers.
 ---
@@ -61,5 +61,5 @@ Deplatforming refers to the permanent ban of controversial public figures with l
     month = oct,
     articleno = {381},
     numpages = {30}
-    }
+}
 ```

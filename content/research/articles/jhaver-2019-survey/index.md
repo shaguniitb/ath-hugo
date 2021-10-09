@@ -18,8 +18,11 @@ links:
   url: jhaver-2019-survey-slides.pdf
   icon: fab fa-slideshare
   local: true  
+award:  
+  status: Best Paper Honorable Mention Award
+  icon: fas fa-medal  
 citation: >-
-  **Shagun Jhaver**, Darren Scott Appling, Eric Gilbert, and Amy Bruckman, ““Did You Suspect the Post Would be Removed?”: Understanding User Reactions to Content Removals on Reddit,” *Proc. ACM Hum.-Comput. Interact. 3*, CSCW, Article 192 (November 2019), 33 pages. doi: [`10.1145/3359294`](https://doi.org/10.1145/3359294)
+  **Shagun Jhaver**, Darren Scott Appling, [Eric Gilbert](http://eegilbert.org), and [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), ““Did You Suspect the Post Would be Removed?”: Understanding User Reactions to Content Removals on Reddit,” *Proc. ACM Hum.-Comput. Interact. 3*, CSCW, Article 192 (November 2019), 33 pages. DOI: [`10.1145/3359294`](https://doi.org/10.1145/3359294)
 haiku: >-
   Moderation fairness / Educational approach / Community guidelines.
 ---

@@ -22,7 +22,7 @@ award:
   status: Best Paper Award
   icon: fas fa-trophy
 citation: >-
-  **Shagun Jhaver**, Amy Bruckman, and Eric Gilbert, “Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit,” *Proc. ACM Hum.-Comput. Interact. 3*, CSCW, Article 150 (November 2019), 27 pages. doi: [`10.1145/3359252`](https://doi.org/10.1145/3359252) 
+  **Shagun Jhaver**, [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), and [Eric Gilbert](http://eegilbert.org), “Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit,” *Proc. ACM Hum.-Comput. Interact. 3*, CSCW, Article 150 (November 2019), 27 pages. DOI: [`10.1145/3359252`](https://doi.org/10.1145/3359252) 
 haiku: >-
   Moderation transparency– / Explanations for post removals  / improves user behaviors.
 ---

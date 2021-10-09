@@ -12,7 +12,7 @@ links:
   url: https://doi.org/10.1145/3490499
   icon: fas fa-scroll 
 citation: >-
-  **Shagun Jhaver**\*, Eshwar Chandrasekharan\*, Amy Bruckman, and Eric Gilbert (2021), “Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit,” (\* co-primary) *Accepted at ACM Transactions on Computer-Human Interaction (TOCHI)* , doi: [`10.1145/3490499`](https://doi.org/10.1145/3490499) 
+  **Shagun Jhaver**\*, [Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com)\*, [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), and [Eric Gilbert](http://eegilbert.org) (2021), “Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit,” (\* co-primary) *Accepted at ACM Transactions on Computer-Human Interaction (TOCHI)* , DOI: [`10.1145/3490499`](https://doi.org/10.1145/3490499) 
 haiku: >-
   Design friction— / Quarantining communities / reduces new user influx.
 ---

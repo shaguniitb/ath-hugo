@@ -12,7 +12,7 @@ links:
   url: https://doi.org/10.1145/3476057
   icon: fas fa-scroll
 citation: >-
-  Manoel Horta Ribeiro, **Shagun Jhaver**, Savvas Zannettou, Jeremy Blackburn, Gianluca Stringhini, Emiliano De Cristofaro, and Robert West, “Does Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels,” *Proc. ACM Hum.-Comput. Interact. 5*, CSCW2, Article 316 (October 2021), 24 pages, doi: [`10.1145/3476057`](https://doi.org/10.1145/3476057) 
+  [Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io), **Shagun Jhaver**, [Savvas Zannettou](https://zsavvas.github.io), [Jeremy Blackburn](https://mrjimmyblack.com), [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/), [Emiliano De Cristofaro](https://emilianodc.com), and [Robert West](https://dlab.epfl.ch/people/west/), “Does Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels,” *Proc. ACM Hum.-Comput. Interact. 5*, CSCW2, Article 316 (October 2021), 24 pages, DOI: [`10.1145/3476057`](https://doi.org/10.1145/3476057) 
 haiku: >-
   Moderation reduces activity / but at the expense of / radicalizing migrated users.
 ---
