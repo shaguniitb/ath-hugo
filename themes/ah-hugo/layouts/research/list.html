@@ -27,17 +27,13 @@
     <ul>
         {{ range $value.Pages }}
         <li class="project">
-            {{ if .Params.award }}
-                <p> <span class="paper-award"> <i class="{{ .Params.award.icon }}"></i> <b>{{ .Params.award.status }}</b> </span> </p>
-            {{ end }}
-            <div class="project-content">
-                <p>{{ if .Params.pub_status }}<span class="status btn-{{ .Params.pub_status.class }}"><i class="fas {{ .Params.pub_status.icon }}"></i> {{ .Params.pub_status.status }}</span> {{ end }}{{ .Params.citation | markdownify }}</p>
+            <div class="project-content">            
+                <p>  {{ if .Params.award }}
+                        <span class="paper-award"> <i class="{{ .Params.award.icon }}"></i> <b>{{ .Params.award.status }}</b> </span> 
+                    {{ end }}    
+
+                    {{ if .Params.pub_status }}<span class="status btn-{{ .Params.pub_status.class }}"><i class="fas {{ .Params.pub_status.icon }}"></i> {{ .Params.pub_status.status }}</span> {{ end }}{{ .Params.citation | markdownify }}</p>
             </div>
-            {{ with .Params.haiku }}
-            <div class="haiku">
-                {{ replace (replace . " / " "&ensp;/&ensp;") " " "&nbsp;" | safeHTML }}
-            </div>
-            {{ end }}
             <div class="project-details">
                 <ul class="project-links">
                     <li class="project-link details"><a href="{{ .RelPermalink }}"><i class="fas fa-info-circle"></i> Full details »</a></li>
@@ -51,6 +47,11 @@
                     {{- end }}
                 </ul>
             </div>
+            {{ with .Params.haiku }}
+            <div class="haiku">
+                {{ replace (replace . " / " "&ensp;/&ensp;") " " "&nbsp;" | safeHTML }}
+            </div>
+            {{ end }}
         </li>
         {{ end }}
     </ul>

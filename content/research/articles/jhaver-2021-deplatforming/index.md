@@ -16,7 +16,7 @@ links:
   icon: fab fa-medium  
 - name: Poster
   url: jhaver-2021-deplatforming-poster.pdf
-  icon: far fa-file-pdf
+  icon: fas fa-chalkboard-teacher
   local: true
 - name: Presentation
   url: https://youtu.be/y7MuLgOeF-E

@@ -13,7 +13,7 @@ links:
   icon: fas fa-scroll
 - name: Poster
   url: de-choudhury-2016-blm-poster.pdf
-  icon: far fa-file-pdf
+  icon: fas fa-chalkboard-teacher
   local: true     
 award:  
   status: Best Paper Award

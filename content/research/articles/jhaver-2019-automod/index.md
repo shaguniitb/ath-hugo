@@ -16,7 +16,7 @@ links:
   icon: fab fa-medium  
 - name: Poster
   url: jhaver-2019-automod-poster.pdf
-  icon: far fa-file-pdf
+  icon: fas fa-chalkboard-teacher
   local: true  
 - name: Slides
   url: jhaver-2019-automod-slides.pdf
