@@ -15,7 +15,7 @@
         <ul id="publications">
             {{ range $research_type := .Site.Params.research_order }}
             {{ $value := index $research_types $research_type }}
-            <li><a href="#{{ $research_type | urlize }}">{{ $research_type | humanize | pluralize }}</a></li>
+            <li><a href="#{{ $research_type | urlize }}">{{ $research_type | pluralize | humanize }}</a></li>
             {{ end }}
         </ul>
     </nav>
@@ -23,7 +23,7 @@
     <div class="project-list">
     {{ range $research_type := .Site.Params.research_order }}
     {{ $value := index $research_types $research_type }}
-    <h2 id="{{ $research_type | urlize }}">{{ $research_type | humanize | pluralize }} <a class="back-to-top" href="#publications">↩︎</a></h2>
+    <h2 id="{{ $research_type | urlize }}">{{ $research_type | pluralize | humanize }} <a class="back-to-top" href="#publications">↩︎</a></h2>
     <ul>
         {{ range $value.Pages }}
         <li class="project">

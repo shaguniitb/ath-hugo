@@ -2,7 +2,7 @@
 title: "Does Platform Migration Compromise Content Mod- eration? Evidence from r/The_Donald and r/Incels"
 date: 2021-10-07
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: ribeiro-2021-migrations.pdf

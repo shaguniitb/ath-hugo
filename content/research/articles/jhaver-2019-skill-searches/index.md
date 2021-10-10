@@ -2,7 +2,7 @@
 title: "Measuring Professional Skill Development in U.S. Cities Using Internet Search Queries"
 date: 2019-05-10
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: jhaver-2019-skill-searches.pdf

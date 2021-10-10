@@ -2,7 +2,7 @@
 title: "“Did You Suspect the Post Would be Removed?”: Understanding User Reactions to Content Removals on Reddit"
 date: 2019-06-10
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: jhaver-2019-survey.pdf

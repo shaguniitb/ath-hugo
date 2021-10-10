@@ -2,7 +2,7 @@
 title: "Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit"
 date: 2019-06-11
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: jhaver-2019-transparency.pdf

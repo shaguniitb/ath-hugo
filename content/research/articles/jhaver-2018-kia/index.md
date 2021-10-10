@@ -2,7 +2,7 @@
 title: "The view from the other side: The border between controversial speech and harassment on Kotaku in Action"
 date: 2018-10-06
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: jhaver-2018-kia.pdf

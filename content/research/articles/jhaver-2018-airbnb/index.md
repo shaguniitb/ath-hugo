@@ -2,7 +2,7 @@
 title: "Algorithmic Anxiety and Coping Strategies of Airbnb Hosts"
 date: 2018-11-06
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: jhaver-2018-airbnb.pdf

@@ -2,7 +2,7 @@
 title: "Human-Machine Collaboration for Content Regulation: The Case of Reddit Automoderator"
 date: 2019-06-06
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: jhaver-2019-automod.pdf

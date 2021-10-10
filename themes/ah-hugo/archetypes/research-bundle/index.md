@@ -4,7 +4,6 @@ date: {{ now.Format "2006-01-02" }}
 research_type: 
 - working-paper
 # - journal-article
-# - book-chapter
 # - review
 citation: >-
   Full Chicago note style citation

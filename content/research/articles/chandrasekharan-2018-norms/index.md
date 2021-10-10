@@ -2,7 +2,7 @@
 title: "The Internet's Hidden Rules: An Empirical Study of Reddit Norm Violations at Micro, Meso, and Macro Scales"
 date: 2018-09-01
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: chandrasekharan-2018-norms.pdf

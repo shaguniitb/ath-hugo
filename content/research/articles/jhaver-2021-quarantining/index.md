@@ -2,7 +2,7 @@
 title: "Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit"
 date: 2021-10-01
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: jhaver-2021-quarantining.pdf

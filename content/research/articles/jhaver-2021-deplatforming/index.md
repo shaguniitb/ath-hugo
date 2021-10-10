@@ -2,7 +2,7 @@
 title: "Evaluating the Effectiveness of Deplatforming as a Moderation Strategy on Twitter"
 date: 2021-10-08
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: jhaver-2021-deplatforming.pdf

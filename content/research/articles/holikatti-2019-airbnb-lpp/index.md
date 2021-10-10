@@ -2,7 +2,7 @@
 title: "Learning to Airbnb by Engaging in Online Communities of Practice"
 date: 2019-06-01
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: holikatti-2019-airbnb.pdf

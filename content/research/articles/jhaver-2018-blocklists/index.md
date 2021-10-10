@@ -2,7 +2,7 @@
 title: "Online Harassment and Content Moderation: The Case of Blocklists"
 date: 2018-12-06
 research_type: 
-- journal-article
+- peer-reviewed-article
 links:
 - name: Preprint
   url: jhaver-2018-blocklists.pdf

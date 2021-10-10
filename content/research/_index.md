@@ -2,11 +2,7 @@
 title: Research
 aliases: 
 - /research/articles/
-- /research/chapters/
-- /research/reviews/
-- /research/seminar-papers/
-- /research/software/
-- /research/translations/
+
 ---
 
 My research builds a foundation for **designing fair and efficient content moderation** systems. I have contributed in-depth descriptions of how moderation systems on Twitter, Reddit and YouTube are constituted and how they affect platform owners, content moderators, and end-users. My recent projects emphasize the following themes:
