@@ -4,9 +4,9 @@ date: 2021-10-01
 research_type: 
 - working-paper
 links:
-- name: arXiv
+- name: arXiv link
   url: https://arxiv.org/pdf/2108.12529.pdf
-  icon: far fa-file-pdf
+  icon: ai ai-arxiv
 citation: >-
   **Shagun Jhaver**, [Seth Frey](https://enfascination.com/weblog/professional), and [Amy Zhang](https://homes.cs.washington.edu/~axz/index.html/) (2021), “Designing for Multiple Centers of Power: A Taxonomy of Multi-level Governance in Online Social Platforms,” arXiv preprint arXiv:2108.12529 (2021). 
 haiku: >-
@@ -15,7 +15,7 @@ haiku: >-
 
 ## Important links
 
-- [arXiv](https://arxiv.org/pdf/2108.12529.pdf)
+- [arXiv link](https://arxiv.org/pdf/2108.12529.pdf)
 
 ## Abstract
 
