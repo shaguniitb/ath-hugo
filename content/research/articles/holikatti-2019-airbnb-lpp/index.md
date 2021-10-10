@@ -17,7 +17,7 @@ links:
 citation: >-
   Maya Holikatti, **Shagun Jhaver**, and [Neha Kumar](https://www.nehakumar.org), “Learning to Airbnb by Engaging in Online Communities of Practice” *Proc. ACM Hum.-Comput. Interact. 3*, CSCW, Article 228 (November 2019), 19 pages. DOI: [`10.1145/3359330`](https://doi.org/10.1145/3359330)
 haiku: >-
-  How hosts learn / Novices to expert hosts / Legitimate peripheral participation.
+  How hosts learn / Novice-to-expert / LPP.
 ---
 
 ## Important links

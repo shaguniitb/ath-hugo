@@ -18,7 +18,7 @@ links:
 citation: >-
   **Shagun Jhaver**, [Justin Cranshaw](http://cranshaw.me), and [Scott Counts](https://www.microsoft.com/en-us/research/people/counts/), “Measuring Professional Skill Development in U.S. Cities Using Internet Search Queries,” *Proceedings of the International AAAI Conference on Web and Social Media*, 13 (01):267-77. 
 haiku: >-
-  Internet-based skill development / increases economic disparities / across 400 US cities.
+  Online skill development / increases disparities / across 400 US cities.
 ---
 
 ## Important links
@@ -33,7 +33,7 @@ Using a sample of 10 million skill development-related queries from a popular in
 ## BibTeX citation
 
 ```bibtex
-@inproceedings{jhaver2019measuring,
+@inproceedings{Jhaver:2019Measuring,
 	title={Measuring professional skill development in US cities using internet search queries},
 	author={Jhaver, Shagun and Cranshaw, Justin and Counts, Scott},
 	booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
