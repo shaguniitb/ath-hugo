@@ -27,6 +27,8 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](de-choudhury-2016-blm.pdf)
+- [AAAI link](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/)
+- [Poster](de-choudhury-2016-blm-poster.pdf)
 
 ## Media coverage
 
