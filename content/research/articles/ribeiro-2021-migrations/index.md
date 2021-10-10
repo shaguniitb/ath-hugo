@@ -1,5 +1,5 @@
 ---
-title: "Does Platform Migration Compromise Content Mod- eration? Evidence from r/The_Donald and r/Incels"
+title: "Do Platform Migrations Harm the Effectiveness of Content Moderation? Evidence from r/The_Donald and r/Incels"
 date: 2021-10-07
 research_type: 
 - peer-reviewed-article
@@ -8,11 +8,11 @@ links:
   url: ribeiro-2021-migrations.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: ACM DL
   url: https://doi.org/10.1145/3476057
-  icon: fas fa-scroll
+  icon: ai ai-acmdl   
 citation: >-
-  [Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io), **Shagun Jhaver**, [Savvas Zannettou](https://zsavvas.github.io), [Jeremy Blackburn](https://mrjimmyblack.com), [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/), [Emiliano De Cristofaro](https://emilianodc.com), and [Robert West](https://dlab.epfl.ch/people/west/), “Does Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels,” *Proc. ACM Hum.-Comput. Interact. 5*, CSCW2, Article 316 (October 2021), 24 pages, DOI: [`10.1145/3476057`](https://doi.org/10.1145/3476057) 
+  [Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io), **Shagun Jhaver**, [Savvas Zannettou](https://zsavvas.github.io), [Jeremy Blackburn](https://mrjimmyblack.com), [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/), [Emiliano De Cristofaro](https://emilianodc.com), and [Robert West](https://dlab.epfl.ch/people/west/), “Do Platform Migrations Harm the Effectiveness of Content Moderation? Evidence from r/The_Donald and r/Incels,” *Proc. ACM Hum.-Comput. Interact. 5*, CSCW2, Article 316 (October 2021), 24 pages, DOI: [`10.1145/3476057`](https://doi.org/10.1145/3476057) 
 haiku: >-
   Moderation reduces activity / but at the expense of / radicalizing migrated users.
 ---
@@ -20,6 +20,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](ribeiro-2021-migrations.pdf)
+- [ACM Digital Library link](https://doi.org/10.1145/3476057)
 
 ## Abstract
 
@@ -30,7 +31,7 @@ When toxic online communities on mainstream platforms face moderation measures, 
 ```bibtex
 @article{Ribeiro:2021Migrations,
     author = {Ribeiro, Manoel Horta and Jhaver, Shagun and Zannettou, Savvas and Blackburn, Jeremy and De Cristofaro, Emiliano and Stringhini, Gianluca and West, Robert},
-    title = {Does Platform Migration Compromise Content Moderation? Evidence from r/The\_Donald and r/Incels},
+    title = {Do Platform Migrations Harm the Effectiveness of Content Moderation? Evidence from r/The\_Donald and r/Incels},
     year = {2021},
     issue_date = {October 2021},
     publisher = {Association for Computing Machinery},

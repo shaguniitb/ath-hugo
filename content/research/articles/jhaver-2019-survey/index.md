@@ -8,9 +8,9 @@ links:
   url: jhaver-2019-survey.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: ACM DL
   url: https://doi.org/10.1145/3359294
-  icon: fas fa-scroll
+  icon: ai ai-acmdl   
 - name: Medium blog
   url: https://medium.com/acm-cscw/did-you-suspect-the-post-would-be-removed-1dd1839277cb
   icon: fab fa-medium  
@@ -30,6 +30,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](jhaver-2019-survey.pdf)
+- [ACM Digital Library link](https://doi.org/10.1145/3359294)
 - [Medium Blog that summarizes this paper](https://medium.com/acm-cscw/did-you-suspect-the-post-would-be-removed-1dd1839277cb)
 - [Slides](jhaver-2019-survey-slides.pdf)
 

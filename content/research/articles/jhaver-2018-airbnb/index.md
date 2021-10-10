@@ -8,9 +8,9 @@ links:
   url: jhaver-2018-airbnb.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: ACM DL
   url: https://doi.org/10.1145/3173574.3173995
-  icon: fas fa-scroll
+  icon: ai ai-acmdl   
 - name: Slides
   url: jhaver-2018-airbnb-slides.pdf
   icon: fab fa-slideshare
@@ -24,6 +24,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](jhaver-2018-airbnb.pdf)
+- [ACM Digital Library link](https://doi.org/10.1145/3173574.3173995)
 - [Slides](jhaver-2018-airbnb-slides.pdf)
 
 ## Abstract

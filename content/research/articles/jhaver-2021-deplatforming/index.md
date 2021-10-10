@@ -8,9 +8,9 @@ links:
   url: jhaver-2021-deplatforming.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: ACM DL
   url: https://doi.org/10.1145/3479525
-  icon: fas fa-scroll
+  icon: ai ai-acmdl   
 - name: Medium blog
   url: https://medium.com/@shagunjhaver/evaluating-the-effectiveness-of-deplatforming-as-a-moderation-strategy-on-twitter-39a4265ccbe4
   icon: fab fa-medium  
@@ -34,6 +34,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](jhaver-2021-deplatforming.pdf)
+- [ACM Digital Library link](https://doi.org/10.1145/3479525)
 - [Medium Blog that summarizes this paper](https://medium.com/@shagunjhaver/evaluating-the-effectiveness-of-deplatforming-as-a-moderation-strategy-on-twitter-39a4265ccbe4)
 - [Poster](jhaver-2021-deplatforming-poster.pdf)
 - [Video presentation](https://youtu.be/y7MuLgOeF-E)

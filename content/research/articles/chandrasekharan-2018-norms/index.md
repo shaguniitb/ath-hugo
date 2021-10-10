@@ -8,9 +8,9 @@ links:
   url: chandrasekharan-2018-norms.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: ACM DL
   url: https://doi.org/10.1145/3274301
-  icon: fas fa-scroll
+  icon: ai ai-acmdl   
 citation: >-
   [Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com), [Mattia Samory](https://www.gesis.org/en/institute/staff/person/mattia.samory), **Shagun Jhaver**, [Hunter Charvat](http://huntercharvat.com), [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), [Cliff Lampe](http://clifflampe.org), [Jacob Eisenstein](https://jacobeisenstein.github.io), and [Eric Gilbert](http://eegilbert.org), “The Internet's Hidden Rules: An Empirical Study of Reddit Norm Violations at Micro, Meso, and Macro Scales,” *Proc. ACM Hum.-Comput. Interact. 2*, CSCW, Article 32 (November 2018), 25 pages. DOI: [`10.1145/3274301`](https://doi.org/10.1145/3274301)
 haiku: >-
@@ -20,6 +20,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](chandrasekharan-2018-norms.pdf)
+- [ACM Digital Library link](https://doi.org/10.1145/3274301)
 
 ## Abstract
 

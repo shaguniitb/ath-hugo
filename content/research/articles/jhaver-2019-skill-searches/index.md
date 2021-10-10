@@ -8,7 +8,7 @@ links:
   url: jhaver-2019-skill-searches.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: AAAI
   url: https://ojs.aaai.org/index.php/ICWSM/article/view/3228
   icon: fas fa-scroll
 - name: Slides
@@ -24,6 +24,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](jhaver-2019-skill-searches.pdf)
+- [AAAI link](https://ojs.aaai.org/index.php/ICWSM/article/view/3228)
 - [Slides](jhaver-2019-skill-searches-slides.pdf)
 
 ## Abstract

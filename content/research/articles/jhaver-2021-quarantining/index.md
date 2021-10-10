@@ -8,9 +8,9 @@ links:
   url: jhaver-2021-quarantining.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: ACM DL
   url: https://doi.org/10.1145/3490499
-  icon: fas fa-scroll 
+  icon: ai ai-acmdl
 citation: >-
   **Shagun Jhaver**\*, [Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com)\*, [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), and [Eric Gilbert](http://eegilbert.org) (2021), “Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit,” (\* co-primary) *Accepted at ACM Transactions on Computer-Human Interaction (TOCHI)* , DOI: [`10.1145/3490499`](https://doi.org/10.1145/3490499) 
 haiku: >-
@@ -20,6 +20,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](jhaver-2021-quarantining.pdf)
+- [ACM Digital Library link](https://doi.org/10.1145/3490499)
 
 ## Abstract
 

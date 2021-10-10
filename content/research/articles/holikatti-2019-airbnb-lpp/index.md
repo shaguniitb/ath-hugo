@@ -8,9 +8,9 @@ links:
   url: holikatti-2019-airbnb.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: ACM DL
   url: https://doi.org/10.1145/3359330
-  icon: fas fa-scroll
+  icon: ai ai-acmdl   
 - name: Medium blog
   url: https://medium.com/@shagunjhaver/learning-to-airbnb-by-engaging-in-online-communities-of-practice-8e45491633a3
   icon: fab fa-medium  
@@ -24,6 +24,7 @@ haiku: >-
 
 - [Paper (preprint)](holikatti-2019-airbnb.pdf)
 - [Medium Blog that summarizes this paper](https://medium.com/@shagunjhaver/learning-to-airbnb-by-engaging-in-online-communities-of-practice-8e45491633a3)
+- [ACM Digital Library link](https://doi.org/10.1145/3359330)
 
 ## Abstract
 

@@ -8,9 +8,9 @@ links:
   url: jhaver-2019-automod.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: ACM DL
   url: https://doi.org/10.1145/3338243
-  icon: fas fa-scroll
+  icon: ai ai-acmdl   
 - name: Medium blog
   url: https://medium.com/acm-cscw/human-machine-collaboration-for-content-regulation-the-case-of-reddit-automoderator-b6f4408cdaef
   icon: fab fa-medium  
@@ -31,6 +31,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](jhaver-2019-automod.pdf)
+- [ACM Digital Library link](https://doi.org/10.1145/3338243)
 - [Medium Blog that summarizes this paper](https://medium.com/acm-cscw/human-machine-collaboration-for-content-regulation-the-case-of-reddit-automoderator-b6f4408cdaef)
 - [Slides](jhaver-2019-automod-slides.pdf)
 - [Poster](jhaver-2019-automod-poster.pdf)

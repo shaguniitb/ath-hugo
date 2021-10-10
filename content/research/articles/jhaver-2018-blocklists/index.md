@@ -8,9 +8,9 @@ links:
   url: jhaver-2018-blocklists.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: ACM DL
   url: https://doi.org/10.1145/3185593
-  icon: fas fa-scroll
+  icon: ai ai-acmdl   
 - name: Medium blog
   url: https://medium.com/acm-cscw/online-harassment-and-content-moderation-the-case-of-twitter-blocklists-25f3ab588a4b
   icon: fab fa-medium  
@@ -34,6 +34,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](jhaver-2018-blocklists.pdf)
+- [ACM Digital Library link](https://doi.acm.org/10.1145/3185593)
 - [Medium Blog that summarizes this paper](https://medium.com/acm-cscw/online-harassment-and-content-moderation-the-case-of-twitter-blocklists-25f3ab588a4b)
 - [Slides](jhaver-2018-blocklists-slides.pdf)
 - [Editor's Spotlight for this paper](spotlight.pdf)

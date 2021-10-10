@@ -8,7 +8,7 @@ links:
   url: de-choudhury-2016-blm.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: AAAI
   url: https://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/viewPaper/13168
   icon: fas fa-scroll
 - name: Poster

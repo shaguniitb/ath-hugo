@@ -8,9 +8,9 @@ links:
   url: jhaver-2019-transparency.pdf
   icon: far fa-file-pdf
   local: true
-- name: Final version
+- name: ACM DL
   url: https://doi.org/10.1145/3359252
-  icon: fas fa-scroll
+  icon: ai ai-acmdl   
 - name: Medium blog
   url: https://medium.com/acm-cscw/does-transparency-in-moderation-really-matter-b86bab9b4810
   icon: fab fa-medium  
@@ -30,6 +30,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](jhaver-2019-transparency.pdf)
+- [ACM Digital Library link](https://doi.org/10.1145/3359252)
 - [Medium Blog that summarizes this paper](https://medium.com/acm-cscw/does-transparency-in-moderation-really-matter-b86bab9b4810)
 - [Slides](jhaver-2019-transparency-slides.pdf)
 - [Reddit discussion](https://www.reddit.com/r/science/comments/duwdco/should_moderators_provide_removal_explanations/) on this paper that hit the Reddit front page.
