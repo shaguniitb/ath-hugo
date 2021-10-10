@@ -39,9 +39,13 @@ haiku: >-
 - [Video presentation](https://youtu.be/y7MuLgOeF-E)
 - [Slides](jhaver-2021-deplatforming-slides.pdf)
 
+## Media coverage
+- Jason Murdock, "[Twitter Under Pressure Over 'Double Standards' After Donald Trump, MAGA Crackdown,](https://www.newsweek.com/twitter-donald-trump-maga-crackdown-double-standards-content-moderation-1561918)" *NewsWeek*, January 15, 2021
+
 ## Abstract
 
 Deplatforming refers to the permanent ban of controversial public figures with large followings on social media sites. In recent years, platforms like Facebook, Twitter and YouTube have deplatformed many offensive influencers to curb the spread of offensive speech. We present a case study of three high-profile influencers who were deplatformed on Twitter—Alex Jones, Milo Yiannopoulos, and Owen Benjamin. Working with over 49M tweets, we found that deplatforming significantly reduced the number of conversations about all three influencers on Twitter. Further, analyzing the Twitter-wide activity of these influencers’ supporters, we show that the overall activity and toxicity levels of supporters declined after deplatforming. We contribute a methodological framework to systematically examine the effectiveness of moderation interventions and discuss broader implications of using deplatforming as a moderation strategy.
+
 
 ## BibTeX citation
 
