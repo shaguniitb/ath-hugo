@@ -7,11 +7,14 @@ Description: Shagun Jhaver is in the news
 
 ### 2021
 
+* 15 Oct: Thrilled to get the news that two of my papers got Best Paper Honorable Mention awards at CSCW 2021! Check out these papers on my [Research](/research) page. 
+* 6 Oct: Presented a talk on "Analyzing the Effectiveness of Content Moderation Interventions" in the New Faculty Colloquium at Rutgers SCI.
 * 5 Oct: Our paper "Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit" got accepted at TOCHI. 
-* 1 Sept: I joined Rutgers SCI as an Assistant Professor. Looking forward to mentoring students and developing new collaborations!
-* 19 May: I gave a talk on "Designing Transparent & Effective Content Moderation" at the UW DUB seminar.
+* 1 Sept: Joined Rutgers SCI as an Assistant Professor. Looking forward to mentoring students and developing new collaborations!
+* 11 June: Served as a panelist for the Special Session—Online communities: Engineering Self-Governing Online Commons at IASC 2021 Knowledge Commons Virtual Conference.
+* 19 May: Gave a talk on "Designing Transparent & Effective Content Moderation" at the UW DUB seminar.
 * 25 Mar: Our paper "Does Platform Migration Compromise Content Moderation? Evidence from r/The_Donald and r/Incels" got accepted at CSCW.
-* 25 Jan: I served as a panelist for the virtual event "The Great Deplatforming: Implications of Big Tech Censorship" organised by University of Chicago.
+* 25 Jan: Served as a panelist for the virtual event "The Great Deplatforming: Implications of Big Tech Censorship" organised by University of Chicago.
 * 15 Jan: [Newsweek](https://www.newsweek.com/twitter-donald-trump-maga-crackdown-double-standards-content-moderation-1561918) covered my research on Twitter deplatforming.
 
 ### 2020
