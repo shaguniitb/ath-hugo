@@ -25,6 +25,9 @@ links:
   url: jhaver-2021-deplatforming-slides.pdf
   icon: fab fa-slideshare
   local: true  
+award:  
+  status: Best Paper Honorable Mention Award
+  icon: fas fa-medal    
 citation: >-
   **Shagun Jhaver**, Christian Boylston, [Diyi Yang](https://www.cc.gatech.edu/~dyang888/), and [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), “Evaluating the Effectiveness of Deplatforming as a Moderation Strategy on Twitter,” *Proc. ACM Hum.-Comput. Interact. 5*, CSCW2, Article 381 (October 2021), 30 pages, DOI: [`10.1145/3479525`](https://doi.org/10.1145/3479525) 
 haiku: >-
