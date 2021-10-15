@@ -11,9 +11,9 @@ links:
 - name: ACM DL
   url: https://doi.org/10.1145/3476057
   icon: ai ai-acmdl   
-- name: Blog
-  url: https://manoelhortaribeiro.github.io/posts/2021/10/deplatforming
-  icon: fas fa-blog    
+- name: Medium blog
+  url: https://medium.com/@manoelhortaribeiro/do-platform-migrations-compromise-content-moderation-8428ae5abb6
+  icon: fab fa-medium  
 - name: Code and Data
   url: https://zenodo.org/record/5171068#.YWnquS1h33Q
   icon: ai ai-zenodo
