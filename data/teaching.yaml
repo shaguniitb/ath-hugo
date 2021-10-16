@@ -10,7 +10,7 @@ all_courses:
     semester:
     - name: Fall 2021 (hybrid)
 
-- academic_year: "2020–21 academic year"
+- academic_year: "University of Washington (2020–21)"
   courses:
   - title: Designing a More Critical CS Education
     description: "Society and computational systems are deeply intertwined. In this course, students will explore how technologies can embody systemic social inequities by synthesizing selected texts into new educational materials that can be broadly valuable (e.g., other students can use these materials for self-study later, the material could be adopted by instructors nationally)."
