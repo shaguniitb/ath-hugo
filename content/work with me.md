@@ -4,9 +4,12 @@ Date: 2021-10-09
 Slug: work-with-me
 Description: Work with me
 ---
+I am looking to accept 1-2 doctoral students starting Fall 2022. If you are a prospective PhD student interested in working with me, please apply to the Rutgers SCI PhD program and mention me in your application materials. 
 
-I am excited to build productive collaborations with motivated students! If you are interested in content moderation research and would like to work with me, please email me responding to the following prompt:
+If you are a current SCI master’s or undergraduate student interested in working with me, please email me (sj917 [at] rutgers [dot] edu) with your CV/resume and research interests.
 
-Mention the paper(s) have you read, and discuss how you would like to extend prior work. List the research questions that might motivate your project. Describe the skills you already have or are eager to develop that would be valuable to conducting the proposed research. 
-
-Please include your CV/resume in your email too. 
+I am particularly interested in working with students who want to conduct computational or mixed-methods research on one or more of the following topics:
+1. Evaluating the effectiveness of moderation interventions
+2. Understanding online harassment and designing solutions to address it
+3. Incorporating fairness and transparency in content moderation systems
+4. Examining the dynamics of online hate groups and devising ways to reduce their influence
