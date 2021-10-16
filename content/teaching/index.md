@@ -1,8 +1,8 @@
 ---
 title: Teaching
-date: 2020-11-16
+date: 2021-10-16
 slug: teaching
-description: Andrew Heiss teaches courses in causal inference, comparative public administration, data visualization, statistics, and data science.
+description: Shagun Jhaver teaches courses in data science.
 ---
 
 {{< course-list >}}
