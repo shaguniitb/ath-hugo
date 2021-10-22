@@ -34,6 +34,7 @@ haiku: >-
 - [Code and Data](https://zenodo.org/record/5171068#.YWnquS1h33Q)
 
 ## Media coverage
+- "[Sanctioned Online Communities May Become More Radicalized, New Study Finds,](https://comminfo.rutgers.edu/news/sanctioned-online-communities-may-become-more-radicalized-new-study-finds)" *Rutgers News*, October 22, 2021
 - Will Bedingfield, "[Deplatforming works, but it’s not enough to fix Facebook and Twitter,](https://www.wired.co.uk/article/deplatforming-parler-bans-qanon)" *Wired*, January 15, 2021
 - Craig Timberg and Drew Harwell, "[TheDonald’s owner speaks out on why he finally pulled plug on hate-filled site,](https://www.washingtonpost.com/technology/2021/02/05/why-thedonald-moderator-left/)" *The Washington Post*, February 5, 2021
 - Billy Perrigo, "[Big Tech's Crackdown on Donald Trump and Parler Won't Fix the Real Problem With Social Media,](https://time.com/5928982/deplatforming-trump-parler/)" *Time*, January 12, 2021
