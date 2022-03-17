@@ -8,7 +8,7 @@ I am looking to accept 1-2 doctoral students starting Fall 2022. If you are a pr
 
 If you are a current SCI master’s or undergraduate student interested in working with me, please email me (sj917 [at] rutgers [dot] edu) with your CV/resume and research interests.
 
-I am particularly interested in working with students who want to conduct computational or mixed-methods research on one or more of the following topics:
+I am particularly interested in working with students who want to conduct computational or mixed-methods research on topics including (but not limited to):
 1. Evaluating the effectiveness of moderation interventions
 2. Understanding online harassment and designing solutions to address it
 3. Incorporating fairness and transparency in content moderation systems

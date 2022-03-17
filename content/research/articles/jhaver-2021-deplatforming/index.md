@@ -45,8 +45,9 @@ haiku: >-
 - [Reddit discussion of this paper that reached the site's front page](https://www.reddit.com/r/science/comments/qcr3jf/deplatforming_controversial_figures_alex_jones/)
 
 ## Media coverage
-- Jason Murdock, "[Twitter Under Pressure Over 'Double Standards' After Donald Trump, MAGA Crackdown,](https://www.newsweek.com/twitter-donald-trump-maga-crackdown-double-standards-content-moderation-1561918)" *NewsWeek*, January 15, 2021
+- Matthew Rozsa, "[Twitter is actually doing a (relatively) good job limiting right-wing misinformation, study finds,](https://www.salon.com/2021/10/27/twitter-is-actually-doing-a-relatively-good-job-limiting-right-wing-misinformation-study-finds/) *Salon*, October 27, 2021
 - Megan Schumann, "[Permanent Twitter Ban of Extremist Influencers Can Detoxify Social Media,](https://www.rutgers.edu/news/permanent-twitter-ban-extremist-influencers-can-detoxify-social-media)" *Rutgers News*, October 21, 2021
+- Jason Murdock, "[Twitter Under Pressure Over 'Double Standards' After Donald Trump, MAGA Crackdown,](https://www.newsweek.com/twitter-donald-trump-maga-crackdown-double-standards-content-moderation-1561918)" *NewsWeek*, January 15, 2021
 
 ## Abstract
 
