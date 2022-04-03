@@ -12,7 +12,7 @@ links:
   url: https://doi.org/10.1145/3490499
   icon: ai ai-acmdl
 citation: >-
-  **Shagun Jhaver**\*, [Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com)\*, [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), and [Eric Gilbert](http://eegilbert.org) (2021), “Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit,” (\* co-primary) *Accepted at ACM Transactions on Computer-Human Interaction (TOCHI)* , DOI: [`10.1145/3490499`](https://doi.org/10.1145/3490499) 
+  **Shagun Jhaver**\*, [Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com)\*, [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), and [Eric Gilbert](http://eegilbert.org) (2021), “Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit,” (\* co-primary) *ACM Trans. Comput.-Hum. Interact. 29, 4, Article 29 (August 2022), 26 pages.* , DOI: [`10.1145/3490499`](https://doi.org/10.1145/3490499) 
 haiku: >-
   Design friction— / Quarantining communities / reduces new user influx.
 ---
@@ -30,14 +30,21 @@ Should social media platforms override a community’s self-policing when it rep
 
 ```bibtex
 @article{Jhaver:2021Quarantining,
-    author = {Chandrasekharan, Eshwar and Jhaver, Shagun and Bruckman, Amy and Gilbert, Eric},
-    title = {Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit},
-    year = {2021},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    url = {https://doi.org/10.1145/3490499},
-    doi = {10.1145/3490499},
-    journal = {ACM Trans. Comput.-Hum. Interact.},
-    numpages = {26}
+    author = {Chandrasekharan, Eshwar and Jhaver, Shagun and Bruckman, Amy and Gilbert, Eric}, 
+    title = {Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit}, 
+    year = {2022}, 
+    issue_date = {August 2022}, 
+    publisher = {Association for Computing Machinery}, 
+    address = {New York, NY, USA}, 
+    volume = {29}, 
+    number = {4}, 
+    issn = {1073-0516}, 
+    url = {https://doi.org/10.1145/3490499}, 
+    doi = {10.1145/3490499}, 
+    journal = {ACM Trans. Comput.-Hum. Interact.}, 
+    month = {mar}, 
+    articleno = {29}, 
+    numpages = {26}, 
     }
+    
 ```

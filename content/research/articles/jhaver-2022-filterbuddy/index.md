@@ -12,11 +12,14 @@ links:
   url: https://medium.com/@shagunjhaver/designing-word-filter-tools-for-creator-led-comment-moderation-b2adc04585dd
   icon: fab fa-medium  
 - name: Presentation
-  url: https://youtu.be/rVKwGa5W2RM
+  url: https://youtu.be/K5dmdGbWHgk
   icon: fab fa-youtube
 - name: Demo
   url: https://youtu.be/O0Ui5nwIE4I
   icon: fab fa-youtube
+- name: Code
+  url: https://github.com/social-Futures-Lab/FilterBuddy/
+  icon: fab fa-github
 citation: >-
   **Shagun Jhaver**, Quan Ze Chen, Detlef Knauss, and [Amy Zhang](https://homes.cs.washington.edu/~axz/) (2022), “Designing Word Filter Tools for Creator-led Comment Moderation,” *In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2022).*
 haiku: >-
@@ -27,8 +30,9 @@ haiku: >-
 
 - [Paper (preprint)](jhaver-2022-filterbuddy.pdf)
 - [Medium Blog that summarizes this paper](https://medium.com/@shagunjhaver/designing-word-filter-tools-for-creator-led-comment-moderation-b2adc04585dd)
-- [Video presentation](https://youtu.be/rVKwGa5W2RM)
+- [CHI Presentation](https://youtu.be/K5dmdGbWHgk)
 - [FilterBuddy demo](https://youtu.be/O0Ui5nwIE4I)
+- [Code](https://github.com/social-Futures-Lab/FilterBuddy/)
 
 ## Abstract
 
