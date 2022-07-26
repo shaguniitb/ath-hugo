@@ -27,6 +27,10 @@ haiku: >-
 - [ACM Digital Library link](https://doi.org/10.1145/3173574.3173995)
 - [Slides](jhaver-2018-airbnb-slides.pdf)
 
+## Media coverage
+- Kyle Chayka, "[The Age of Algorithmic Anxiety,](https://www.newyorker.com/culture/infinite-scroll/the-age-of-algorithmic-anxiety)" *The New Yorker*, July 25, 2022
+
+
 ## Abstract
 
 Algorithms increasingly mediate how work is evaluated in a wide variety of work settings. Drawing on our interviews with 15 Airbnb hosts, we explore the impact of algorithmic evaluation on users and their work practices in the context of Airbnb. Our analysis reveals that Airbnb hosts engage in a double negotiation on the platform: They must negotiate efforts not just to attract potential guests but also to appeal to only partially transparent evaluative algorithms. We found that a perceived lack of control and uncertainty over how algorithmic evaluation works can create anxiety among some Airbnb hosts. We present a framework for understanding this double negotiation, as well as a case study of coping strategies that hosts employ to deal with their anxiety. We conclude with a discussion of design solutions that can help reduce algorithmic anxiety and increase confidence in algorithmic systems.
