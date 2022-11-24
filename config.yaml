@@ -107,8 +107,8 @@ menu:
     - name: Now
       url: now/
       weight: 7
-    - name: Work with me!
-      url: work-with-me/
+    - name: Social Computing Lab
+      url: lab/
       weight: 8      
 
 
