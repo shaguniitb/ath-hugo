@@ -1,14 +1,14 @@
 ---
 title: What I'm doing now
-date: 2021-10-09
+date: 2022-11-09
 slug: now
 description: Shagun Jhaver is working on a bunch of exciting and groundbreaking projects
 math: true
 ---
 
-As of October 5, 2021, I'm spending all my time on these things:
+As of November 5, 2022, I'm spending all my time on these things:
 
-* Settling into New Brunswick as I start my new job as an assistant professor in the School of Communication and Information at Rutgers University
+* Recently moved to West Village, NYC. Enjoying the cute cafes and restaurants in the neighborhood!
+* Redesigning and teaching a graduate course 'MI 587: Understanding, Designing and Building Social Media' for the first time. What a fun class to teach!
 * Checking out New York city over the weekends
-* Teaching ITI 221: Fundamentals of Data Curation and Management in Fall 2021
-* Finishing the third part of the Wolf Hall trilogy by Hilary Mantel 
+* Re-reading The Return of the King by JRR Tolkein
