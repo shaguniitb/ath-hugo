@@ -7,17 +7,12 @@ Description: Shagun Jhaver is in the news
 
 ### 2022
 
-- 11 Nov: Served as a panelist and led a World cafe session at the CSCW NE Informal Meetup held at Cornell Tech
-
-- 1 Sept: Teaching a graduate course 'MI 587: Understanding, Designing and Building Social Media' for the first time this fall
-
-- 1 June: Received a Rutgers GIFR grant to examine user behaviors in the aftermath of bans
-
-- 10 Apr: Received a Rutgers grant on understanding the role of visual cultures in online radicalization in collaboration with Tawfiq Ammari and Kiran Garimella
-
-- 5 Mar: Our paper "Designing Word Filter Tools for Creator-led Comment Moderation" got accepted at CHI
-
-- 24 Feb: Attended the 2022 CRA Career Mentoring Workshop
+* 11 Nov: Served as a panelist and led a World cafe session at the CSCW NE Informal Meetup held at Cornell Tech
+* 1 Sept: Teaching a graduate course 'MI 587: Understanding, Designing and Building Social Media' for the first time this fall
+* 1 June: Received a Rutgers GIFR grant to examine user behaviors in the aftermath of bans
+* 10 Apr: Received a Rutgers grant on understanding the role of visual cultures in online radicalization in collaboration with Tawfiq Ammari and Kiran Garimella
+* 5 Mar: Our paper "Designing Word Filter Tools for Creator-led Comment Moderation" got accepted at CHI
+* 24 Feb: Attended the 2022 CRA Career Mentoring Workshop
 
 ### 2021
 

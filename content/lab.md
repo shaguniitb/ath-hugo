@@ -5,7 +5,7 @@ slug: lab
 description: The Social Computing Lab in the School of Communication and Information at Rutgers University.
 ---
 
-The Social Computing Lab is based out of the School of Communication and Information at Rutgers University. Our goal is to **make the internet fairer, safer, and more inclusive**. Our current focus is on critically evaluating the design and technology behind social media systems. We contribute empirical evidence that guides design and policy solutions to improve platform governance.
+The Social Computing Lab is based out of the School of Communication and Information at Rutgers University. Our goal is to **make the internet fairer, safer, and more inclusive**. We contribute empirical evidence that guides design and policy solutions to improve platform governance.
 
 ## Ongoing projects
 
