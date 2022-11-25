@@ -5,6 +5,20 @@ Slug: news
 Description: Shagun Jhaver is in the news
 ---
 
+### 2022
+
+- 11 Nov: Served as a panelist and led a World cafe session at the CSCW NE Informal Meetup held at Cornell Tech
+
+- 1 Sept: Teaching a graduate course 'MI 587: Understanding, Designing and Building Social Media' for the first time this fall
+
+- 1 June: Received a Rutgers GIFR grant to examine user behaviors in the aftermath of bans
+
+- 10 Apr: Received a Rutgers grant on understanding the role of visual cultures in online radicalization in collaboration with Tawfiq Ammari and Kiran Garimella
+
+- 5 Mar: Our paper "Designing Word Filter Tools for Creator-led Comment Moderation" got accepted at CHI
+
+- 24 Feb: Attended the 2022 CRA Career Mentoring Workshop
+
 ### 2021
 
 * 15 Oct: Thrilled to get the news that two of my papers got Best Paper Honorable Mention awards at CSCW 2021! Check out these papers on my [Research](/research) page. 
@@ -31,4 +45,3 @@ Description: Shagun Jhaver is in the news
 * 25 Aug: My research on fairness and transparency in content moderation on Reddit got covered by [New Scientist](https://www.newscientist.com/article/2214308-explaining-why-reddit-posts-are-removed-helps-people-comply-with-rules/).
 * 15 Aug: I am co-leading a workshop titled ["Volunteer Work: Mapping the Future of Moderation Research"](https://sites.google.com/view/cscw2019modworkshop) at CSCW. Join us to set an agenda for future research in this space!
 * 30 July: 3 papers accepted to CSCW. Check out these papers on the Research page.
-
