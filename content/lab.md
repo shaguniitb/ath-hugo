@@ -5,7 +5,7 @@ slug: lab
 description: The Social Computing Lab in the School of Communication and Information at Rutgers University.
 ---
 
-The Social Computing Lab is based out of the School of Communication and Information at Rutgers University. Our goal is to **make the internet fairer, safer, and more inclusive**. Our work is situated at the intersection of social computing, data science, and information science. Our current focus is on developing theories and contributing empirical evidence that guide design and policy solutions to improve platform governance.
+The Social Computing Lab is based out of the School of Communication and Information at Rutgers University. Our goal is to **make the internet fairer, safer, and more inclusive**. Our current focus is on critically evaluating the design and technology behind social media systems. We contribute empirical evidence that guides design and policy solutions to improve platform governance.
 
 ## Ongoing projects
 
@@ -13,15 +13,15 @@ The Social Computing Lab is based out of the School of Communication and Informa
 - Using social psychology and communication theories to design warning labels against inappropriate content on social media sites and conducting controlled online experiments to evaluate the effects of those labels
 - Designing, building and analyzing the use of personal moderation tools. Exploring antecedents of support for platform-enacted moderation versus personal moderation tools
 - Understanding public librarians' perspectives on content curation practices of e-book lending subscription services
-- Evaluating the effects of offering removal explanations on social media platforms
-- Studying public perceptions of community-wide moderation interventions
+- Evaluating the effects of offering post removal explanations on social media platforms
+- Studying public perceptions of community-wide moderation interventions, including community bans and warning labels that precede community access. 
 - Deriving empirical insights on the use of restorative justice practices to address online harassment
-- Analyzing how visual cultures contribute to political polarization on social media sites
+- Analyzing how visual cultures such as memes contribute to political polarization on social media sites
 - Characterizing the landscape of multi-level governance structures in online social platforms, drawing from taxonomies of offline institutions, including administrative hierarchy, federalism and polycentricity
 
 ## People
 
-I am the head of the Social Computing Lab. I am fortunate to work with the following fantastic students: 
+**Head:** Shagun Jhaver
 
 **PhD students:** Matthew Ackerman, Kaitlin Montague, Manoel Horta Ribeiro (EPFL), Yunhee Shim, and Sijia Xiao (UC Berkeley)
 
@@ -29,9 +29,9 @@ I am the head of the Social Computing Lab. I am fortunate to work with the follo
 
 **Undergraduate students:** Anish Gupta, Vincent Scaglione, and Alice Zhang (UMN)
 
-I am also delighted to work with the following **collaborators**: Tawfiq Ammari (Rutgers), Eshwar Chandrasekharan (UIUC), Kiran Garimella (Rutgers), Sanjay Kairam (Reddit), Koustuv Saha (Microsoft Research), Niloufar Salehi (UC Berkeley), and Amy Zhang (UW).
+**Collaborators**: Tawfiq Ammari (Rutgers), Eshwar Chandrasekharan (UIUC), Kiran Garimella (Rutgers), Sanjay Kairam (Reddit), Koustuv Saha (Microsoft Research), Niloufar Salehi (UC Berkeley), and Amy Zhang (UW).
 
-## Work with me
+## Come work with us!
 
 I am looking to accept 2-3 doctoral students starting Fall 2023. If you are a prospective PhD student interested in working with me, please apply to the Rutgers SCI PhD program and mention me in your application materials. 
 
