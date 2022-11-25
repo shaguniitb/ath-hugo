@@ -4,6 +4,7 @@
 .Ruserdata
 
 .DS_Store
+.hugo_build.lock
 
 blogdown/md5sum.txt
 public/*
