@@ -2,7 +2,7 @@
 title: Social Computing Lab 
 date: 2021-10-05
 slug: lab 
-description: Andrew Heiss is working on a bunch of exciting and groundbreaking projects
+description: The Social Computing Lab in the School of Communication and Information at Rutgers University.
 ---
 
 The Social Computing Lab is based out of the School of Communication and Information at Rutgers University. Our goal is to **make the internet fairer, safer, and more inclusive**. Our work is situated at the intersection of social computing, data science, and information science. Our current focus is on developing theories and contributing empirical evidence that guide design and policy solutions to improve platform governance.
