@@ -3,7 +3,7 @@ all_courses:
   current: true
   courses:
   - title: Understanding, Designing, and Building Social Media
-    description: "This seminar-style course merges social science, information science and computer science approaches to explore the rich concepts that underlie the design and use of social media. Topics discussed include the definition and history of social media, identity and self-presentation, social networks, design principles for building successful online communities, bad actors online, digital harms, content moderation, role of automation and labor in sustaining online spaces, algorithmic anxiety and oppression, and fairness and transparency in design."
+    description: "This seminar-style course merges social science, information science and computer science approaches to explore the rich concepts that underlie the design and use of social media. Topics discussed include the definition and history of social media, identity and self-presentation, social networks, design principles for building successful online communities, digital harms, content moderation, role of automation and labor in sustaining online spaces, algorithmic anxiety and oppression, and fairness and transparency in design."
     university: Rutgers University
     number: MI 587
     logo: MI587.jpg

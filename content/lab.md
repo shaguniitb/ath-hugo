@@ -21,9 +21,11 @@ The Social Computing Lab is based out of the School of Communication and Informa
 
 ## People
 
-**Head:** Shagun Jhaver
+**Principal investigator:** Shagun Jhaver
 
-**PhD students:** Matthew Ackerman, Kaitlin Montague, Manoel Horta Ribeiro (EPFL), Yunhee Shim, and Sijia Xiao (UC Berkeley)
+**PhD student:** Yunhee Shim
+
+**PhD semester project students:** Matthew Ackerman, Kaitlin Montague, Manoel Horta Ribeiro (EPFL), and Sijia Xiao (UC Berkeley)
 
 **Masters students:**  Abhinay Mannepalli, Jordi Cluet i Martinell (EPFL), and Abhinay Reddy Vongur
 
@@ -37,8 +39,8 @@ I am looking to accept 2-3 doctoral students starting Fall 2023. If you are a pr
 
 If you are a current PhD, Master’s or undergraduate student at Rutgers interested in working with me, please email me (sj917 [at] rutgers [dot] edu) with your CV/resume and research interests. I use a variety of methods in my research --- interviews, surveys, online experiments, and large-scale data analyses. Please indicate your skills and experiences related to any of these methods.
 
-I am particularly interested in working with students who want to conduct research on topics including (but not limited to):
+I am particularly interested in working with students who want to work on:
 
-1. Evaluating the use of reporting mechanisms on digital platforms
-2. Examining the use of content labels to shape user attitudes and behaviors
-3. Studying how transparency in post removals affect the future behaviors of end-users
+1. Any of the ongoing projects (listed above)
+2. Extending an ongoing project in the lab
+3. Exploring new ideas on the topic of content moderation or online harassment 

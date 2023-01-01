@@ -5,7 +5,7 @@ research_type:
 - peer-reviewed-article
 links:
 - name: Preprint
-  url: holikatti-2019-airbnb.pdf
+  url: holikatti-2019-airbnb-lpp.pdf
   icon: far fa-file-pdf
   local: true
 - name: ACM DL
@@ -22,7 +22,7 @@ haiku: >-
 
 ## Important links
 
-- [Paper (preprint)](holikatti-2019-airbnb.pdf)
+- [Paper (preprint)](holikatti-2019-airbnb-lpp.pdf)
 - [Medium Blog that summarizes this paper](https://medium.com/@shagunjhaver/learning-to-airbnb-by-engaging-in-online-communities-of-practice-8e45491633a3)
 - [ACM Digital Library link](https://doi.org/10.1145/3359330)
 

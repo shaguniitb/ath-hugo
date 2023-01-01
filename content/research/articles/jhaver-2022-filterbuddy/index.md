@@ -8,6 +8,9 @@ links:
   url: jhaver-2022-filterbuddy.pdf
   icon: far fa-file-pdf
   local: true  
+- name: ACM DL
+  url: https://doi.org/10.1145/3491102.3517505
+  icon: ai ai-acmdl    
 - name: Medium blog
   url: https://medium.com/@shagunjhaver/designing-word-filter-tools-for-creator-led-comment-moderation-b2adc04585dd
   icon: fab fa-medium  
