@@ -5,8 +5,14 @@ Slug: news
 Description: Shagun Jhaver is in the news
 ---
 
+### 2023
+
+* 24 Feb: Served as the inaugural speaker for the YouTube REP (Racial Justice, Equity and Product Inclusion) Group's Fairness and Safety speaker series.
+* 10 Jan: Offering the graduate course 'MI 587: Understanding, Designing and Building Social Media' to PhD and CS Masters students this semester.
+
 ### 2022
 
+* 16 Dec: Received a Rutgers GIFR grant to examine the effects of warning and information labels on attraction to offensive online communities 
 * 11 Nov: Served as a panelist and led a World cafe session at the CSCW NE Informal Meetup held at Cornell Tech
 * 1 Sept: Teaching a graduate course 'MI 587: Understanding, Designing and Building Social Media' for the first time this fall
 * 1 June: Received a Rutgers GIFR grant to examine user behaviors in the aftermath of bans
