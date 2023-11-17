@@ -7,6 +7,10 @@ Description: Shagun Jhaver is in the news
 
 ### 2023
 
+* 15 Sept: Received my first NSF grant for ''Incorporating Procedural Fairness in Flagging Mechanisms on Social Media Sites.'' [Award Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2329394).
+* 6 Sept: Attended the BKC 25++ Reunion at Harvard University.
+* 25 Aug: Three new papers accepted in CSCW, TOCHI, and Social Media + Society. 
+* 10 July: Serving as the Associate Chair for CHI 2023.
 * 24 Feb: Served as the inaugural speaker for the YouTube REP (Racial Justice, Equity and Product Inclusion) Group's Fairness and Safety speaker series.
 * 10 Jan: Offering the graduate course 'MI 587: Understanding, Designing and Building Social Media' to PhD and CS Masters students this semester.
 

@@ -44,7 +44,7 @@ Thousands of users post on Reddit every day, but a fifth of all posts are remove
 ## BibTeX citation
 
 ```bibtex
-@article{Jhaver:2019Survey,
+@article{jhaver2019survey,
     author = {Jhaver, Shagun and Appling, Darren Scott and Gilbert, Eric and Bruckman, Amy},
     title = {"Did You Suspect the Post Would Be Removed?": Understanding User Reactions to Content Removals on Reddit},
     year = {2019},

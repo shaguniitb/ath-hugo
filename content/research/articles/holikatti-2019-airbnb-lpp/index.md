@@ -33,7 +33,7 @@ Technological advances, combined with sustained, minimalist consumerism, have ra
 ## BibTeX citation
 
 ```bibtex
-@article{Holikatti:2019Airbnb,
+@article{holikatti2019airbnb,
 	author = {Holikatti, Maya and Jhaver, Shagun and Kumar, Neha},
 	title = {Learning to Airbnb by Engaging in Online Communities of Practice},
 	year = {2019},

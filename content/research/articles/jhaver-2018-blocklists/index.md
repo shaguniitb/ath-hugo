@@ -50,7 +50,7 @@ Online harassment is a complex and growing problem. On Twitter, one mechanism pe
 ## BibTeX citation
 
 ```bibtex
-@article{Jhaver:2018Blocklists,
+@article{jhaver2018blocklists,
 	author = {Jhaver, Shagun and Ghoshal, Sucheta and Bruckman,Amy and Gilbert, Eric},
 	title = {Online Harassment and Content Moderation: The Case of Blocklists},
 	year = {2018},

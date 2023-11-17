@@ -2,7 +2,7 @@
 title: "Leveraging Focus Theory of Normative Conduct to Shape User Behavior"
 date: 2019-06-08
 research_type: 
-- workshop-paper
+- workshop-papers-and-panel
 links:
 - name: Paper
   url: jhaver-2019-focus-theory.pdf

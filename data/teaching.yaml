@@ -1,6 +1,16 @@
 all_courses:
-- academic_year: "2022–23 academic year"
+- academic_year: "2023–24 academic year"
   current: true
+  courses:
+  - title: Fundamentals of Data Curation and Management
+    description: "This course introduces students to the use of large data sets and prepares them for work in organizational and research settings. The students will learn the basics of acquiring and curating practical data, discovering patterns, and managing large datasets with databases. Students will work multiple modalities of data such as textual, networked, and numerical datasets."
+    university: Rutgers University
+    number: ITI 221
+    logo: ITI221.png
+    semester:
+    - name: Fall 2023
+
+- academic_year: "2022–23 academic year"
   courses:
   - title: Understanding, Designing, and Building Social Media
     description: "This seminar-style course merges social science, information science and computer science approaches to explore the rich concepts that underlie the design and use of social media. Topics discussed include the definition and history of social media, identity and self-presentation, social networks, design principles for building successful online communities, digital harms, content moderation, role of automation and labor in sustaining online spaces, algorithmic anxiety and oppression, and fairness and transparency in design."

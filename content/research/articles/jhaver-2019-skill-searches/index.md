@@ -34,7 +34,7 @@ Using a sample of 10 million skill development-related queries from a popular in
 ## BibTeX citation
 
 ```bibtex
-@inproceedings{Jhaver:2019Measuring,
+@inproceedings{jhaver2019skills,
 	title={Measuring professional skill development in US cities using internet search queries},
 	author={Jhaver, Shagun and Cranshaw, Justin and Counts, Scott},
 	booktitle={Proceedings of the International AAAI Conference on Web and Social Media},

@@ -47,7 +47,7 @@ What one may say on the internet is increasingly controlled by a mix of automate
 ## BibTeX citation
 
 ```bibtex
-@article{Jhaver:2019Automod,
+@article{jhaver2019automod,
 	author = {Jhaver, Shagun and Birman, Iris and Gilbert, Eric and Bruckman, Amy},
 	title = {Human-Machine Collaboration for Content Regulation: The Case of Reddit Automoderator},
 	year = {2019},

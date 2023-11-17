@@ -2,7 +2,7 @@
 title: "Designing ‘Understanding Mechanisms’ to Fight Online Harassment"
 date: 2018-06-11
 research_type: 
-- workshop-paper
+- workshop-papers-and-panel
 links:
 - name: Paper
   url: jhaver-2018-understanding.pdf

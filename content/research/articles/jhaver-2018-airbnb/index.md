@@ -38,7 +38,7 @@ Algorithms increasingly mediate how work is evaluated in a wide variety of work 
 ## BibTeX citation
 
 ```bibtex
-@inproceedings{Jhaver:2018Airbnb,
+@inproceedings{jhaver2018airbnb,
 	author = {Jhaver, Shagun and Karpfen, Yoni and Antin, Judd},
 	title = {Algorithmic Anxiety and Coping Strategies of Airbnb Hosts},
 	year = {2018},

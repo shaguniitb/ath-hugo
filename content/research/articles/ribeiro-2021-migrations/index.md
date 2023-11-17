@@ -51,20 +51,20 @@ When toxic online communities on mainstream platforms face moderation measures, 
 ## BibTeX citation
 
 ```bibtex
-@article{Ribeiro:2021Migrations,
-    author = {Ribeiro, Manoel Horta and Jhaver, Shagun and Zannettou, Savvas and Blackburn, Jeremy and De Cristofaro, Emiliano and Stringhini, Gianluca and West, Robert},
-    title = {Do Platform Migrations Compromise Content Moderation? Evidence from r/The\_Donald and r/Incels},
+@article{ribeiro2021migrations,
+    author = {Horta Ribeiro, Manoel and Jhaver, Shagun and Zannettou, Savvas and Blackburn, Jeremy and Stringhini, Gianluca and De Cristofaro, Emiliano and West, Robert},
+    title = {Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels},
     year = {2021},
     issue_date = {October 2021},
     publisher = {Association for Computing Machinery},
     address = {New York, NY, USA},
     volume = {5},
-    number = {CSCW},
+    number = {CSCW2},
     url = {https://doi.org/10.1145/3476057},
     doi = {10.1145/3476057},
     journal = {Proc. ACM Hum.-Comput. Interact.},
-    month = oct,
+    month = {oct},
     articleno = {316},
-    numpages = {24}
-    }
+    numpages = {24},
+}
 ```

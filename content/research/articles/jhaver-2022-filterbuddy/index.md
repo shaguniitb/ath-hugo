@@ -24,7 +24,7 @@ links:
   url: https://github.com/social-Futures-Lab/FilterBuddy/
   icon: fab fa-github
 citation: >-
-  **Shagun Jhaver**, Quan Ze Chen, Detlef Knauss, and [Amy Zhang](https://homes.cs.washington.edu/~axz/) (2022), “Designing Word Filter Tools for Creator-led Comment Moderation,” *In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2022).*
+  **Shagun Jhaver**, Quan Ze Chen, Detlef Knauss, and [Amy Zhang](https://homes.cs.washington.edu/~axz/) (2022), “Designing Word Filter Tools for Creator-led Comment Moderation,” In *Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22).* Association for Computing Machinery, New York, NY, USA, Article 205, 1–21. DOI: [`10.1145/3491102.3517505`](https://doi.org/10.1145/3491102.3517505)
 haiku: >-
   Author new filters / Organize filters / Visualize caught comments.
 ---
@@ -44,14 +44,21 @@ Online social platforms centered around content creators often allow comments on
 ## BibTeX citation
 
 ```bibtex
-@inbook{Jhaver:2022FilterBuddy,
-	author = {Jhaver, Shagun and Chen, Quan Ze and Knauss,Detlef and Zhang, Amy},
-	title = {Designing Word Filter Tools for Creator-led Comment Moderation},
-	year = {2022},
-	publisher = {Association for Computing Machinery},
-	address = {New York, NY, USA},
-	url = {https://doi.org/10.1145/3491102.3517505},
-	doi = {10.1145/3491102.3517505},
-	booktitle = {Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems},
+
+@inproceedings{jhaver2022filterbuddy,
+    author = {Jhaver, Shagun and Chen, Quan Ze and Knauss, Detlef and Zhang, Amy X.},
+    title = {Designing Word Filter Tools for Creator-Led Comment Moderation},
+    year = {2022},
+    isbn = {9781450391573},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3491102.3517505},
+    doi = {10.1145/3491102.3517505},
+    booktitle = {Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems},
+    articleno = {205},
+    numpages = {21},
+    location = {New Orleans, LA, USA},
+    series = {CHI '22}
 }
+
 ```

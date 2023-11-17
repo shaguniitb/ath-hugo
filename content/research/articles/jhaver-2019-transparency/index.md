@@ -46,7 +46,7 @@ When posts are removed on a social media platform, users may or may not receive 
 ## BibTeX citation
 
 ```bibtex
-@article{Jhaver:2019Transparency,
+@article{jhaver2019explanations,
     author = {Jhaver, Shagun and Bruckman, Amy and Gilbert, Eric},
     title = {Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit},
     journal = {Proc. ACM Hum.-Comput. Interact.},
@@ -62,5 +62,5 @@ When posts are removed on a social media platform, users may or may not receive 
     month = nov,
     articleno = {150},
     numpages = {27}
-    }
+}
 ```

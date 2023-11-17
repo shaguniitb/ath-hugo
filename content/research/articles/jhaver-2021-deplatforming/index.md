@@ -57,7 +57,7 @@ Deplatforming refers to the permanent ban of controversial public figures with l
 ## BibTeX citation
 
 ```bibtex
-@article{Jhaver:2021Deplatforming,
+@article{jhaver2021deplatforming,
     author = {Jhaver, Shagun and Boylston, Christian and Yang, Diyi and Bruckman, Amy},
     title = {Evaluating the Effectiveness of Deplatforming as a Moderation Strategy on Twitter},
     year = {2021},
@@ -65,12 +65,12 @@ Deplatforming refers to the permanent ban of controversial public figures with l
     publisher = {Association for Computing Machinery},
     address = {New York, NY, USA},
     volume = {5},
-    number = {CSCW},
+    number = {CSCW2},
     url = {https://doi.org/10.1145/3479525},
     doi = {10.1145/3479525},
     journal = {Proc. ACM Hum.-Comput. Interact.},
-    month = oct,
+    month = {oct},
     articleno = {381},
-    numpages = {30}
+    numpages = {30},
 }
 ```

@@ -33,22 +33,21 @@ Should social media platforms override a community’s self-policing when it rep
 ## BibTeX citation
 
 ```bibtex
-@article{Jhaver:2022Quarantining,
-    author = {Chandrasekharan, Eshwar and Jhaver, Shagun and Bruckman, Amy and Gilbert, Eric}, 
-    title = {Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit}, 
-    year = {2022}, 
-    issue_date = {August 2022}, 
-    publisher = {Association for Computing Machinery}, 
-    address = {New York, NY, USA}, 
-    volume = {29}, 
-    number = {4}, 
-    issn = {1073-0516}, 
-    url = {https://doi.org/10.1145/3490499}, 
-    doi = {10.1145/3490499}, 
-    journal = {ACM Trans. Comput.-Hum. Interact.}, 
-    month = {mar}, 
-    articleno = {29}, 
-    numpages = {26}, 
-    }
-    
+@article{jhaver2022quarantining,
+    author = {Chandrasekharan, Eshwar and Jhaver, Shagun and Bruckman, Amy and Gilbert, Eric},
+    title = {Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit},
+    year = {2022},
+    issue_date = {August 2022},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {29},
+    number = {4},
+    issn = {1073-0516},
+    url = {https://doi.org/10.1145/3490499},
+    doi = {10.1145/3490499},
+    journal = {ACM Trans. Comput.-Hum. Interact.},
+    month = {mar},
+    articleno = {29},
+    numpages = {26},
+}
 ```

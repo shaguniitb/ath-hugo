@@ -2,7 +2,7 @@
 title: "Volunteer Work: Mapping the Future of Moderation Research"
 date: 2019-06-11
 research_type: 
-- workshop-paper
+- workshop-papers-and-panel
 links:
 - name: Workshop website
   url: https://sites.google.com/view/cscw2019modworkshop
