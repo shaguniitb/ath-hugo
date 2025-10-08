@@ -14,8 +14,11 @@ links:
 - name: Medium blog
   url: https://medium.com/acm-cscw/quarantined-examining-the-effects-of-a-community-wide-moderation-intervention-on-reddit-f9c5dbd3cda1
   icon: fab fa-medium  
+award:  
+  status: Editor's Pick for Notable Paper
+  icon: fas fa-crown    
 citation: >-
-  **Shagun Jhaver**\*, [Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com)\*, [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), and [Eric Gilbert](http://eegilbert.org) (2022), “Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit,” (\* co-primary) *ACM Trans. Comput.-Hum. Interact. 29, 4, Article 29 (August 2022), 26 pages.* , DOI: [`10.1145/3490499`](https://doi.org/10.1145/3490499) 
+  **Shagun Jhaver**\*, [Eshwar Chandrasekharan](http://www.eshwarchandrasekharan.com)\*, [Amy Bruckman](https://www.cc.gatech.edu/fac/Amy.Bruckman/), and [Eric Gilbert](http://eegilbert.org) (2022), “Quarantined! Examining the Effects of a Community-Wide Moderation Intervention on Reddit,” (\* co-primary) *ACM Trans. Comput.-Hum. Interact. (TOCHI)* 29, 4, Article 29 (August 2022), 26 pages, DOI: [`10.1145/3490499`](https://doi.org/10.1145/3490499) 
 haiku: >-
   Design friction— / Quarantining communities / reduces new user influx.
 ---

@@ -37,6 +37,7 @@ haiku: >-
 - [Hacker News discussion](https://news.ycombinator.com/item?id=21513871) on this paper that hit the site's front page.
 
 ## Media coverage
+
 - ["Explaining why Reddit posts are removed helps people comply with rules,"](https://www.newscientist.com/article/2214308-explaining-why-reddit-posts-are-removed-helps-people-comply-with-rules/) *New Scientist*, August 25, 2019
 
 ## Abstract
