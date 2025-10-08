@@ -1,14 +1,14 @@
 ---
 title: What I'm doing now
-date: 2022-11-09
+date: 2024-02-21
 slug: now
 description: Shagun Jhaver is working on a bunch of exciting and groundbreaking projects
 math: true
 ---
 
-As of November 5, 2022, I'm spending all my time on these things:
+As of Feb 21, 2024, I'm spending all my free time on these activities:
 
-* Recently moved to West Village, NYC. Enjoying the cute cafes and restaurants in the neighborhood!
-* Redesigning and teaching a graduate course 'MI 587: Understanding, Designing and Building Social Media' for the first time. What a fun class to teach!
-* Checking out New York city over the weekends
-* Re-reading the Lord of the Rings by JRR Tolkien
+* Organizing a weekly community hangout focused on word-based games. 
+* Reading Bowling Alone by Robert Putnam. 
+* Exploring art galleries in New York city.
+* Enjoying Peanuts comic strips (1950-52) by Charles M. Schulz.
