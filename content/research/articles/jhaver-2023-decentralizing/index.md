@@ -11,6 +11,13 @@ links:
 - name: Sage Open Access
   url: https://doi.org/10.1177/20563051231207857
   icon: ai ai-doi     
+- name: Medium blog
+  url: https://medium.com/@shagunjhaver/decentralizing-platform-power-a-design-space-of-multi-level-governance-in-online-social-platforms-ee11e6964c21 
+  icon: fab fa-medium  
+- name: Slides
+  url: jhaver-2023-decentralizing-slides.pdf
+  icon: fab fa-slideshare
+  local: true    
 citation: >-
   **Shagun Jhaver**, [Seth Frey](https://enfascination.com/weblog/professional), and [Amy X. Zhang](https://homes.cs.washington.edu/~axz/) (2023), “Decentralizing Platform Power: A Design Space of Multi-level Governance in Online Social Platforms,” *Social Media + Society*, 9(4). DOI: [`10.1177/20563051231207857`](https://doi.org/10.1177/20563051231207857)
 haiku: >-
@@ -20,6 +27,9 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](jhaver-2023-decentralizing.pdf)
+- [Social Media + Society link](https://doi.org/10.1177/20563051231207857)
+- [Medium Blog that summarizes this paper](https://medium.com/@shagunjhaver/decentralizing-platform-power-a-design-space-of-multi-level-governance-in-online-social-platforms-ee11e6964c21)
+- [Slides](jhaver-2023-decentralizing-slides.pdf)
 
 ## Abstract
 

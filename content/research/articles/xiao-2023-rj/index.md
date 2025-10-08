@@ -12,7 +12,7 @@ links:
   url: https://doi.org/10.1145/3603625
   icon: ai ai-acmdl
 citation: >-
-  [Sijia Xiao](https://applexiao.com), **Shagun Jhaver**, and [Niloufar Salehi](https://niloufar.org) (2023), “Addressing Interpersonal Harm in Online Gaming Communities: The Opportunities and Challenges for a Restorative Justice Approach,” *ACM Trans. Comput.-Hum. Interact. 30, 6, Article 83 (September 2023), 36 pages.*, DOI: [`10.1145/3603625`](https://doi.org/10.1145/3603625)
+  [Sijia Xiao](https://applexiao.com), **Shagun Jhaver**, and [Niloufar Salehi](https://niloufar.org) (2023), “Addressing Interpersonal Harm in Online Gaming Communities: The Opportunities and Challenges for a Restorative Justice Approach,” *ACM Trans. Comput.-Hum. Interact. (TOCHI) 30, 6, Article 83 (September 2023), 36 pages.*, DOI: [`10.1145/3603625`](https://doi.org/10.1145/3603625)
 
 haiku: >-
   Postmodern perspectives / Going beyond punitive models / Addressing online harassment.
@@ -21,6 +21,8 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](xiao-2023-rj.pdf)
+- [ACM Digital Library link](https://dl.acm.org/doi/10.1145/3603625) 
+- [CHI Presentation](https://www.youtube.com/watch?v=rkVd7jCyTHA)
 
 ## Abstract
 

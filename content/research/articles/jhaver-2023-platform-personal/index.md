@@ -8,15 +8,23 @@ links:
   url: jhaver-2023-platform-personal.pdf
   icon: far fa-file-pdf
   local: true 
+- name: Sage 
+  url: https://doi.org/10.1177/14614448231217993 
+  icon: ai ai-doi       
+- name: Medium blog
+  url: https://medium.com/@shagunjhaver/do-users-want-platform-moderation-or-individual-control-1e430ef09d2b 
+  icon: fab fa-medium    
 citation: >-
-  **Shagun Jhaver** and [Amy X. Zhang](https://homes.cs.washington.edu/~axz/) (2023), “Do Users Want Platform Moderation or Individual Control? Examining the Role of Third-Person Effects and Free Speech Support in Shaping Moderation Preferences,” *Accepted in New Media & Society*, 
+  **Shagun Jhaver** and [Amy X. Zhang](https://homes.cs.washington.edu/~axz/) (2023), “Do Users Want Platform Moderation or Individual Control? Examining the Role of Third-Person Effects and Free Speech Support in Shaping Moderation Preferences,” *New Media & Society.* DOI: [`10.1177/14614448231217993`](https://doi.org/10.1177/14614448231217993)
 haiku: >-
-  Users Prefer / Personal Moderation / Despite Supporting Free Speech
+  Users Prefer / Personalizing Moderation / Despite Supporting Free Speech
 ---
 
 ## Important links
 
 - [Paper (preprint)](jhaver-2023-platform-personal.pdf)
+- [New Media & Society link](https://doi.org/10.1177/14614448231217993)
+- [Medium Blog that summarizes this paper]https://medium.com/@shagunjhaver/do-users-want-platform-moderation-or-individual-control-1e430ef09d2b)
 
 ## Abstract
 
