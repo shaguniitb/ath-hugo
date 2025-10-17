@@ -8,6 +8,12 @@ links:
   url: kirasur-2025-caste.pdf 
   icon: far fa-file-pdf
   local: true
+- name: ACM DL
+  url: https://doi.org/10.1145/3757518
+  icon: ai ai-acmdl  
+- name: Medium blog
+  url: https://medium.com/acm-cscw/how-does-studying-caste-based-marginalization-on-social-media-expand-our-understanding-of-online-24cfaca71ea3 
+  icon: fab fa-medium  
 award:  
   status: Best Paper Award
   icon: fas fa-trophy
@@ -21,6 +27,8 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](kirasur-2025-caste.pdf)
+- [Medium Blog that summarizes this paper](https://medium.com/acm-cscw/how-does-studying-caste-based-marginalization-on-social-media-expand-our-understanding-of-online-24cfaca71ea3)
+- [ACM Digital Library Link](https://doi.org/10.1145/3757518)
 
 ## Abstract
 
@@ -32,8 +40,17 @@ Despite decades of anti-caste efforts, sociocultural practices that marginalize 
 @article{kirasur-2025-caste,
     author = {Kirasur, Nayana and Jhaver, Shagun},
     title = {Understanding the Prevalence of Caste: A Critical Discourse Analysis of Caste-based Marginalization on X},
-    year = {2025},
-    publisher = {Association for Computing Machinery},
-    journal = {Proc. ACM Hum.-Comput. Interact.},
+    year = {2025}, 
+    issue_date = {November 2025}, 
+    publisher = {Association for Computing Machinery}, 
+    address = {New York, NY, USA}, 
+    volume = {9}, 
+    number = {7}, 
+    url = {https://doi.org/10.1145/3757518}, 
+    doi = {10.1145/3757518}, 
+    journal = {Proc. ACM Hum.-Comput. Interact.}, 
+    month = oct, 
+    articleno = {CSCW337}, 
+    numpages = {35}
 }
 ```
