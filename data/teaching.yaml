@@ -25,7 +25,7 @@ all_courses:
 - academic_year: "2024–25 academic year"
   courses:
   - title: Understanding, Designing, and Building Social Media
-    description: "This seminar-style course merges social science, information science and computer science approaches to explore the rich concepts that underlie the design and use of social media. Topics discussed include the definition and history of social media, identity and self-presentation, social networks, design principles for building successful online communities, digital harms, content moderation, role of automation and labor in sustaining online spaces, algorithmic anxiety and oppression, and fairness and transparency in design."
+    description: "This seminar-style course merges social science, information science and computer science approaches to explore the rich concepts that underlie the design and use of social media. Topics discussed include the definition and history of social media, identity and self-presentation, social networks, design principles for building successful online communities, content curation, role of automation and labor in sustaining online spaces, algorithmic anxiety, and fairness and transparency in design."
     university: Rutgers University
     number: MI 587
     logo: MI587.jpg
@@ -56,7 +56,7 @@ all_courses:
 - academic_year: "2022–23 academic year"
   courses:
   - title: Understanding, Designing, and Building Social Media
-    description: "This seminar-style course merges social science, information science and computer science approaches to explore the rich concepts that underlie the design and use of social media. Topics discussed include the definition and history of social media, identity and self-presentation, social networks, design principles for building successful online communities, digital harms, content moderation, role of automation and labor in sustaining online spaces, algorithmic anxiety and oppression, and fairness and transparency in design."
+    description: "This seminar-style course merges social science, information science and computer science approaches to explore the rich concepts that underlie the design and use of social media. Topics discussed include the definition and history of social media, identity and self-presentation, social networks, design principles for building successful online communities, content curation, role of automation and labor in sustaining online spaces, algorithmic anxiety, and fairness and transparency in design."
     university: Rutgers University
     number: MI 587, PhD 675
     logo: MI587.jpg
@@ -87,8 +87,6 @@ all_courses:
 - academic_year: "University of Washington (2020–21)"
   courses:
   - title: Designing a More Critical CS Education
-    description: "Society and computational systems are deeply intertwined. In this course, students will explore how technologies can embody systemic social inequities by synthesizing selected texts into new educational materials that can be broadly valuable (e.g., other students can use these materials for self-study later, the material could be adopted by instructors nationally)."
-    university: University of Washington
     number: CSE 492
     logo: CSE492.jpg
     semester:

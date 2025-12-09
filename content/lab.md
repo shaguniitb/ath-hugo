@@ -5,31 +5,24 @@ slug: lab
 description: The Social Computing Lab in the School of Communication and Information at Rutgers University.
 ---
 
-The Social Computing Lab is based in the School of Communication and Information at Rutgers University. Our goal is to **make the internet fairer, safer, and more inclusive**. We contribute empirical evidence that guides design and policy solutions to improve platform governance.
+The Social Computing Lab is based in the School of Communication and Information at Rutgers University. Our goal is to **make the internet fairer, secured, and more inclusive**. We contribute empirical evidence that guides design and policy solutions to improve human-algorithm interactions.
 
 ## Ongoing projects
 
 - Examining search engine users' perceptions of the curation of search autocompletes.
-- Analyzing social media users' engagement with inappropriate speech by politicians.
-- Understanding the accessibility challenges of using safety tools on social media sites.
-- Studying content creators' adoption of pinning inappropriate comments as a moderation strategy.
-- Evaluating the effects of norm education strategies in online communities on newcomers.
-- Designing, building, and analyzing the use of [personal moderation tools](https://dl.acm.org/doi/10.1145/3610080). Exploring psychosocial factors that influence the adoption of these tools.
-- Understanding how offline perceptions of race influence exposure, processing, and responses to race-based hate speech online. 
-- Examining how content moderation influences gender performativity on Chinese platforms.
+- Understanding the accessibility challenges of using social media sites.
+- Studying content creators' strategies of securing online protection and visibility.
+- Exploring how users engage in boundary work when interacting with algorithms on Chinese platforms.
 - Identifying support-seeking practices of people in inter-caste relationships on Reddit.
 
 ## People
 
 **Principal investigator:** Shagun Jhaver
 
-**Postdoc:** Alyvia Walters
-
 **PhD students:** Meilun Chen, Yunhee Shim
 
-**PhD semester project students:** Matthew Ackerman, Sudhamshu Hosamane, Nayana Kirasur, Alice Zhang (CMU)
+**PhD semester project students:** Sudhamshu Hosamane, Nayana Kirasur, Alice Zhang (CMU)
 
-**Active collaborators**: Tawfiq Ammari, Britt Paris, Robert West (EPFL)
 
 ## Come work with us!
 
@@ -41,4 +34,4 @@ I am particularly interested in working with students who want to work on the fo
 
 1. Any of the ongoing projects (listed above)
 2. Extending an ongoing project in the lab
-3. Exploring new ideas on the topic of content moderation or addressing online harms 
+3. Exploring new ideas on the topic of human-algorithm interactions 
