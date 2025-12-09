@@ -35,8 +35,8 @@ taxonomies:
 
 params:
   author: Shagun Jhaver 
-  minibio: Social computing, CSCW, HCI, content moderation, and online harassment
-  description: "Shagun Jhaver is an assistant professor at Rutgers University, researching content moderation and online harassment."
+  minibio: Social computing, CSCW, HCI, platforms, internet studies
+  description: "Shagun Jhaver is an assistant professor at Rutgers University, researching user-algorithm interactions."
   research_order: [peer-reviewed-article, technical_report, workshop-papers-and-panel, thesis]
   social:
     twitter: shagunjhaver 
@@ -92,9 +92,6 @@ menu:
     - name: About
       url: /
       weight: 1
-    - name: CV
-      url: "cv/"
-      weight: 2
     - name: Research
       url: research/
       weight: 3

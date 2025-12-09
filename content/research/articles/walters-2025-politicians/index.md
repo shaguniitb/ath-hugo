@@ -5,15 +5,9 @@ research_type:
 - peer-reviewed-article
 links:
 - name: Preprint
-  url: kirasur-2025-caste.pdf 
+  url: walters-2025-politicians.pdf 
   icon: far fa-file-pdf
   local: true
-- name: ACM DL
-  url: https://doi.org/10.1145/3757518
-  icon: ai ai-acmdl  
-- name: Medium blog
-  url: https://medium.com/acm-cscw/how-does-studying-caste-based-marginalization-on-social-media-expand-our-understanding-of-online-24cfaca71ea3 
-  icon: fab fa-medium  
 award:  
   status: Best Paper Award
   icon: fas fa-trophy
@@ -26,9 +20,8 @@ haiku: >-
 
 ## Important links
 
-- [Paper (preprint)](kirasur-2025-caste.pdf)
-- [Medium Blog that summarizes this paper](https://medium.com/acm-cscw/how-does-studying-caste-based-marginalization-on-social-media-expand-our-understanding-of-online-24cfaca71ea3)
-- [ACM Digital Library Link](https://doi.org/10.1145/3757518)
+- [Paper (preprint)](walters-2025-politicians.pdf)
+
 
 ## Abstract
 
@@ -37,7 +30,7 @@ Despite decades of anti-caste efforts, sociocultural practices that marginalize 
 ## BibTeX citation
 
 ```bibtex
-@article{kirasur-2025-caste,
+@article{walters-2025-politicians,
     author = {Kirasur, Nayana and Jhaver, Shagun},
     title = {Understanding the Prevalence of Caste: A Critical Discourse Analysis of Caste-based Marginalization on X},
     year = {2025}, 

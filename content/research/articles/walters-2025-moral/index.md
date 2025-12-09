@@ -8,9 +8,12 @@ links:
   url: walters-2025-moral.pdf
   icon: far fa-file-pdf
   local: true     
+- name: Sage 
+  url: https://doi.org/10.1177/14614448251385923   
+  icon: ai ai-doi
   
 citation: >-
-  [Alyvia Walters](https://alyviawalters.wixsite.com/website), [Tawfiq Ammari](https://sites.comminfo.rutgers.edu/tammari/), and **Shagun Jhaver** (2025), “Moral Disengagement and Content Moderation Attitudes: Examining How Apathy to Online Harms May Disguise Racially Conservative Beliefs,” Accepted in *New Media & Society*
+  [Alyvia Walters](https://alyviawalters.wixsite.com/website), [Tawfiq Ammari](https://sites.comminfo.rutgers.edu/tammari/), and **Shagun Jhaver** (2025), “Moral Disengagement and Content Moderation Attitudes: Examining How Apathy to Online Harms May Disguise Racially Conservative Beliefs,” *New Media & Society*. DOI: [`10.1177/14614448251385923`](https://doi.org/10.1177/14614448251385923)
   
 haiku: >-
   Racially conservative attitudes / relate to distaste for  / content moderation
@@ -19,6 +22,9 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](walters-2025-moral.pdf)
+- [New Media & Society link](https://doi.org/10.1177/14614448251385923)
+
+
 
 ## Abstract
 
@@ -32,6 +38,8 @@ Social media users’ preferences for various content moderation interventions h
     title = {Moral Disengagement and Content Moderation Attitudes: Examining How Apathy to Online Harms May Disguise Racially Conservative Beliefs}, 
     year = {2025}, 
     journal = {New Media & Society}, 
+    url = {https://doi.org/10.1177/14614448251385923},
+    doi = {10.1177/14614448251385923}
     }
     
 ```

@@ -34,5 +34,6 @@ Autocomplete is a popular search feature that predicts queries based on user inp
     title = {Examining Racial Stereotypes in YouTube Autocomplete Suggestions}, 
     year = {2025}, 
     journal = {New Media & Society}, 
+    doi = {10.1177/14614448251346503},
     }
 ```

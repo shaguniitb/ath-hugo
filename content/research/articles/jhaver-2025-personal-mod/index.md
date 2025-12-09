@@ -13,7 +13,7 @@ links:
   icon: ai ai-doi       
 
 citation: >-
-  **Shagun Jhaver** (2025), “Personal Moderation Configurations on Facebook: Exploring the Roles of Fear of Missing Out, Social Media Addiction, Norms, and Platform Trust,” *First Monday*, DOI:[`10.5210/fm.v30i9.14272`](https://doi.org/10.5210/fm.v30i9.14272)
+  **Shagun Jhaver** (2025), “Personal Moderation Configurations on Facebook: Exploring the Roles of Fear of Missing Out, Social Media Addiction, Norms, and Platform Trust,” *First Monday*. DOI:[`10.5210/fm.v30i9.14272`](https://doi.org/10.5210/fm.v30i9.14272)
 haiku: >-
   Psychosocial orientations / and normative environments / condition tool adoption.
 ---
