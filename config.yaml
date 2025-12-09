@@ -78,10 +78,6 @@ params:
       name: Twitter
       url: https://twitter.com/shagunjhaver
       weight: 6
-    - icon: fab fa-facebook
-      name: Facebook
-      url: https://www.facebook.com/shagun.jhaver
-      weight: 7
     - icon: fab fa-linkedin
       name: LinkedIn
       url: https://www.linkedin.com/in/shagun-jhaver/
