@@ -8,8 +8,11 @@ links:
   url: shim-2025-library.pdf
   icon: far fa-file-pdf
   local: true
+- name: The Library Quarterly 
+  url: https://doi.org/10.1086/738388 
+  icon: ai ai-doi   
 citation: >-
-  [Yunhee Shim](https://www.yunheeshim.com) and **Shagun Jhaver** (2025), “Understanding the Governance Challenges of Public Libraries Subscribing to Digital Content Distributors,” Accepted in The Library Quarterly 
+  [Yunhee Shim](https://www.yunheeshim.com) and **Shagun Jhaver** (2025), “Understanding the Governance Challenges of Public Libraries Subscribing to Digital Content Distributors,” The Library Quarterly 
 haiku: >-
   Distibutor services / fundamentally shift / librarians' curatorial focus.
 ---
@@ -17,6 +20,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](shim-2025-library.pdf)
+- [The Library Quarterly link](https://www.journals.uchicago.edu/doi/10.1086/738388)
 
 
 ## Abstract
@@ -27,8 +31,14 @@ As popular demand for digital information increases, public libraries are increa
 ```bibtex
 @article{shim-2025-library,
     author = {Shim, Yunhee and Jhaver, Shagun},
-    title = {Understanding the Governance Challenges of Public Libraries Subscribing to Digital Content Distributors},
-    year = {2025},
+    doi = {10.1086/738388},
+    eprint = {https://doi.org/10.1086/738388},
     journal = {The Library Quarterly},
+    number = {1},
+    pages = {100-121},
+    title = {Understanding the Governance Challenges of Public Libraries Subscribing to Digital Content Distributors},
+    url = {https://doi.org/10.1086/738388},
+    volume = {96},
+    year = {2026},
 }
 ```
