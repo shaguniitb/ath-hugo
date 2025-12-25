@@ -1,7 +1,4 @@
-# baseURL: https://www.shagunjhaver.com/
-baseURL: "https://jhavershagun.github.io/"
-relativeURLs: true
-canonifyURLs: true
+baseURL: https://www.shagunjhaver.com/
 title: Shagun Jhaver
 theme: ah-hugo
 languageCode: en
