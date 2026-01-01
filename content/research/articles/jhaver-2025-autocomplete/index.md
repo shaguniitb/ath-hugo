@@ -8,9 +8,12 @@ links:
   url: jhaver-2025-autocomplete.pdf
   icon: far fa-file-pdf
   local: true     
+- name: Sage 
+  url: https://doi.org/10.1177/14614448251406282   
+  icon: ai ai-doi
   
 citation: >-
-  **Shagun Jhaver** (2025), “Examining How Search Engine Users Understand the Production of Autocomplete Suggestions,” Accepted in *New Media & Society*
+  **Shagun Jhaver** (2025), “Examining How Search Engine Users Understand the Production of Autocomplete Suggestions,” *New Media & Society*. DOI: [`10.1177/14614448251406282`](https://doi.org/10.1177/14614448251406282)
   
 haiku: >-
   Users' information dependencies / serve the capital accumulation cycle  / of search platforms
@@ -19,6 +22,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](jhaver-2025-autocomplete.pdf)
+- [New Media & Society link](https://doi.org/10.1177/14614448251406282)
 
 
 
@@ -34,6 +38,8 @@ Autocomplete is a popular search feature that automatically generates query sugg
     title = {Examining How Search Engine Users Understand the Production of Autocomplete Suggestions}, 
     year = {2025}, 
     journal = {New Media & Society}, 
+    url = {https://doi.org/10.1177/14614448251406282},
+    doi = {10.1177/14614448251406282}
     }
     
 ```
