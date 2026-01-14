@@ -15,6 +15,7 @@ markup:
     style: "monokai"
 disableKinds: ["RSS"]
 buildFuture: true
+enableRobotsTXT: true
 
 permalinks:
   blog: "/blog/:year/:month/:day/:slug/"
