@@ -36,7 +36,7 @@ taxonomies:
 
 params:
   author: Shagun Jhaver 
-  minibio: Social computing, CSCW, HCI, platforms, internet studies
+  minibio: Social Computing, HCI, Media & Society, Platform Governance, Online Harms, Internet Studies
   description: "Shagun Jhaver is an assistant professor at Rutgers University, researching user-algorithm interactions."
   research_order: [peer-reviewed-article, technical_report, workshop-papers-and-panel, thesis]
   social:
