@@ -13,7 +13,7 @@ links:
   icon: ai ai-acmdl  
 
 citation: >-
-  [Yunhee Shim](https://www.yunheeshim.com) and **Shagun Jhaver** (2026), “Incorporating Procedural Fairness in Flag Submissions on Social Media Platforms,” Accepted in *ACM Transactions on Social Computing.* 
+  [Yunhee Shim](https://www.yunheeshim.com) and **Shagun Jhaver** (2026), “Incorporating Procedural Fairness in Flag Submissions on Social Media Platforms,” *ACM Transactions on Social Computing.* 9, 1, Article 3 (March 2026), 40 pages. DOI: [`10.1145/3797820`](https://doi.org/10.1145/3797820)
 haiku: >-
   A large-scale experiment / to inform design / of flagging components.
 ---
@@ -36,6 +36,17 @@ feedback. Our qualitative analysis of open-ended responses highlights user needs
     author = {Shim, Yunhee and Jhaver, Shagun},
     journal = {ACM Transactions on Social Computing},
     title = {Incorporating Procedural Fairness in Flag Submissions on Social Media Platforms},
-    year = {2026},
+    year = {2026}, 
+    issue_date = {March 2026}, 
+    publisher = {Association for Computing Machinery}, 
+    address = {New York, NY, USA}, 
+    volume = {9}, 
+    number = {1}, 
+    url = {https://doi.org/10.1145/3797820}, 
+    doi = {10.1145/3797820},
+    journal = {Trans. Soc. Comput.}, 
+    month = mar, 
+    articleno = {3}, 
+    numpages = {40},
 }
 ```

@@ -12,7 +12,7 @@ links:
   url: https://doi.org/10.1086/738388 
   icon: ai ai-doi   
 citation: >-
-  [Yunhee Shim](https://www.yunheeshim.com) and **Shagun Jhaver** (2026), “Understanding the Governance Challenges of Public Libraries Subscribing to Digital Content Distributors,” The Library Quarterly 
+  [Yunhee Shim](https://www.yunheeshim.com) and **Shagun Jhaver** (2026), “Understanding the Governance Challenges of Public Libraries Subscribing to Digital Content Distributors,” The Library Quarterly 2026 96:1, 100-121. DOI: [`10.1086/738388`](https://doi.org/10.1086/738388)
 haiku: >-
   Distibutor services / fundamentally shift / librarians' curatorial focus.
 ---

@@ -11,6 +11,13 @@ links:
 - name: ACM DL
   url: https://doi.org/10.1145/3715116
   icon: ai ai-acmdl  
+- name: Medium blog
+  url: https://medium.com/@shagunjhaver/bans-v-s-warning-labels-examining-bystanders-support-for-community-wide-moderation-interventions-f0b5d29d13ac 
+  icon: fab fa-medium  
+- name: Slides
+  url: jhaver-2025-bans-slides.pdf
+  icon: fab fa-slideshare
+  local: true 
 citation: >-
   **Shagun Jhaver** (2025), “Bans vs. Warning Labels: Examining Bystanders’ Support for Community-wide Moderation Interventions,” *ACM Trans. Comput.-Hum. Interact. (TOCHI)* 32, 2, Article 18 (April 2025), 30 pages. DOI: [`10.1145/3715116`](https://doi.org/10.1145/3715116) 
   
@@ -23,6 +30,8 @@ haiku: >-
 
 - [Paper (preprint)](jhaver-2025-bans.pdf)
 - [ACM Digital Library link](https://doi.org/10.1145/3715116)
+- [Medium blog](https://medium.com/@shagunjhaver/bans-v-s-warning-labels-examining-bystanders-support-for-community-wide-moderation-interventions-f0b5d29d13ac)
+- [Slides](jhaver-2025-bans-slides.pdf)
 
 ## Abstract
 
