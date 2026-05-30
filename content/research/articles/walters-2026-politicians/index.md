@@ -10,7 +10,7 @@ links:
   local: true     
 
 citation: >-
-  [Alyvia Walters](https://alyviawalters.wixsite.com/website) and **Shagun Jhaver** (2026), “Should the Powerful Be Moderated? Examining Social Media Users’ Perspectives on Moderating Politicians’ Inappropriate Speech,” *Accepted in Proc. ACM Hum.-Comput. Interact., CSCW.* 
+  [Alyvia Walters](https://alyviawalters.wixsite.com/website) and **Shagun Jhaver** (2026), “Should the Powerful Be Moderated? Examining Social Media Users’ Perspectives on Moderating Politicians’ Inappropriate Speech,” *Accepted in Proc. ACM Hum.-Comput. Interact., CSCW.*, 33 pages. 
 
 haiku: >-
   Platforms' capitalistic functions / and free speech concerns  / influence user attitudes
