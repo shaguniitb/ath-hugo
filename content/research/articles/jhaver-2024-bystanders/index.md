@@ -1,5 +1,5 @@
 ---
-title: "Designing Word Filter Tools for Creator-led Comment Moderation."
+title: "Bystanders of Online Moderation: Examining the Effects of Witnessing Post-Removal Explanations."
 date: 2024-01-20
 research_type: 
 - peer-reviewed-article
@@ -11,6 +11,11 @@ links:
 - name: ACM DL
   url: https://doi.org/10.1145/3613904.3642204
   icon: ai ai-acmdl      
+- name: Slides
+  url: jhaver-2024-bystanders-slides.pdf
+  icon: fab fa-slideshare
+  local: true 
+
 citation: >-
   **Shagun Jhaver**, Himanshu Rathi, and [Koustuv Saha](https://koustuv.com) (2024), “Bystanders of Online Moderation: Examining the Effects of Witnessing Post-Removal Explanations,” In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24).* Association for Computing Machinery, New York, NY, USA, Article 191, 1–9. DOI: [`10.1145/3613904.3642204`](https://doi.org/10.1145/3613904.3642204)
 haiku: >-
@@ -21,6 +26,7 @@ haiku: >-
 
 - [Paper (preprint)](jhaver-2024-bystanders.pdf)
 - [ACM Digital Library link)](https://doi.org/10.1145/3613904.3642204)
+- [Slides](jhaver-2024-bystanders-slides.pdf)
 
 ## Abstract
 
