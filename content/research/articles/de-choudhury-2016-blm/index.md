@@ -9,17 +9,17 @@ links:
   icon: far fa-file-pdf
   local: true
 - name: AAAI
-  url: https://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/viewPaper/13168
+  url: https://ojs.aaai.org/index.php/ICWSM/article/view/14758 
   icon: fas fa-scroll
 - name: Poster
   url: de-choudhury-2016-blm-poster.pdf
   icon: fas fa-chalkboard-teacher
   local: true     
 award:  
-  status: Best Paper Award
+  status: Best Paper Award & Test of Time Award, 2026
   icon: fas fa-trophy  
 citation: >-
-  [Munmun De Choudhury](http://www.munmund.net), **Shagun Jhaver**, Benjamin Sugar, and [Ingmar Weber](https://ingmarweber.de), “Social Media Participation in an Activist Movement for Racial Equality,” *In Proceedings of the International AAAI Conference on Web and Social Media (ICWSM 2016)* (Acceptance rate: 17%). 
+  [Munmun De Choudhury](http://www.munmund.net), **Shagun Jhaver**, Benjamin Sugar, and [Ingmar Weber](https://ingmarweber.de), “Social Media Participation in an Activist Movement for Racial Equality,” *In Proceedings of the International AAAI Conference on Web and Social Media (ICWSM 2016),* 10(1), 92–101.
 haiku: >-
   Black Lives Matter / Twitter predicts protests / Social movements.
 ---
@@ -27,7 +27,7 @@ haiku: >-
 ## Important links
 
 - [Paper (preprint)](de-choudhury-2016-blm.pdf)
-- [AAAI link](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/)
+- [AAAI link](https://ojs.aaai.org/index.php/ICWSM/article/view/14758)
 - [Poster](de-choudhury-2016-blm-poster.pdf)
 
 ## Media coverage
@@ -42,10 +42,16 @@ From the Arab Spring to the Occupy Movement, social media has been instrumental 
 ## BibTeX citation
 
 ```bibtex
-@inproceedings{dechoudhury:2016BLM,
-    author = {De Choudhury, Munmun and Jhaver, Shagun and Sugar, Benjamin and Weber, Ingmar},
-    title={Social media participation in an activist movement for racial equality},
-    booktitle={Tenth International AAAI Conference on Web and Social Media},
-    year = {2016}
+@article{dechoudhury:2016BLM,
+	title={Social Media Participation in an Activist Movement for Racial Equality}, 
+	volume={10}, 
+	url={https://ojs.aaai.org/index.php/ICWSM/article/view/14758}, 
+	DOI={10.1609/icwsm.v10i1.14758},
+	number={1}, 
+	journal={Proceedings of the International AAAI Conference on Web and Social Media}, 
+	author={De Choudhury, Munmun and Jhaver, Shagun and Sugar, Benjamin and Weber, Ingmar}, 
+	year={2016}, 
+	month={Aug.}, 
+	pages={92–101} 
 }
 ```

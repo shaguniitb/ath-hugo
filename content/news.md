@@ -7,6 +7,8 @@ Description: Shagun Jhaver is in the news
 
 ### 2026
 
+- 29 May: Received the ICWSM Test of Time Award for [this](https://ojs.aaai.org/index.php/ICWSM/article/view/14758) paper.
+- 15 May: One [paper](https://doi.org/10.1002/asi.70092) accepted at JASIST.
 - 20 Jan: Started teaching an MI course on Research Methods.
 - 6 Jan: One [paper](https://dl.acm.org/doi/abs/10.1145/3797820) accepted at ACM Transactions on Social Computing.
 

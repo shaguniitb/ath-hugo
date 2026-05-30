@@ -2,7 +2,7 @@
 title: "Calculating Edit Distance for Large Sets of String Pairs using MapReduce"
 date: 2014-07-10
 research_type: 
-- peer-reviewed-article
+- lightly-peer-reviewed-article
 links:
 - name: Preprint
   url: jhaver-2014-edit-distance.pdf

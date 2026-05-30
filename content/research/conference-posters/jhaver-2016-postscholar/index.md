@@ -2,7 +2,7 @@
 title: "PostScholar: Surfacing Social Signals in Google Scholar Search"
 date: 2016-07-10
 research_type: 
-- technical_report
+- conference-poster
 links:
 - name: Report
   url: jhaver-2016-postscholar.pdf

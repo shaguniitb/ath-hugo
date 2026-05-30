@@ -2,7 +2,7 @@
 title: "Designing for Civil Conversations: Lessons Learned from ChangeMyView"
 date: 2017-07-10
 research_type: 
-- technical_report
+- non-refereed-article
 links:
 - name: Report
   url: jhaver-2017-cmv.pdf

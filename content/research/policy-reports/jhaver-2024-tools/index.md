@@ -2,7 +2,7 @@
 title: "Tools Against Harassment: Empowering Content Creators"
 date: 2024-07-01
 research_type: 
-- technical_report
+- policy-report
 links:
 - name: ADL
   url: https://www.adl.org/resources/report/tools-against-harassment-empowering-content-creators
