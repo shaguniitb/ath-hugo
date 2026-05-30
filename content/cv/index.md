@@ -2,7 +2,7 @@
 title: Curriculum vitæ
 cv:
   pdf: "shagun_CV.pdf"
-  updated: 2025-12-26
+  updated: 2026-05-23
 ---
 
 {{< cv >}}
