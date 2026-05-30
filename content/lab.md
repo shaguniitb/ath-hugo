@@ -12,14 +12,13 @@ The Social Computing Lab is based in the School of Communication and Information
 - Examining search engine users' perceptions of the curation of search autocompletes.
 - Understanding the accessibility challenges of using social media sites.
 - Studying content creators' strategies of securing online protection and visibility.
-- Exploring how users engage in boundary work when interacting with algorithms on Chinese platforms.
 - Identifying support-seeking practices of people in inter-caste relationships on Reddit.
 
 ## People
 
 **Principal investigator:** Shagun Jhaver
 
-**PhD students:** Meilun Chen, Yunhee Shim
+**PhD students:** Yunhee Shim, Joshua Rochotte
 
 **PhD semester project students:** Sudhamshu Hosamane, Nayana Kirasur, Alice Zhang (CMU)
 
