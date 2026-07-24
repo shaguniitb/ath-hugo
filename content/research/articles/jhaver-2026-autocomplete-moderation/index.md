@@ -14,6 +14,9 @@ links:
 - name: Medium blog
   url: https://medium.com/@shagunjhaver/interpreting-algorithmic-information-cues-user-sensemaking-of-search-autocomplete-moderation-e6fe163339f9  
   icon: fab fa-medium    
+- name: Information Matters
+  url: https://informationmatters.org/2026/05/users-perspectives-on-content-moderation-of-web-search-autocomplete-suggestions/ 
+  icon: fas fa-newspaper
   
 citation: >-
   **Shagun Jhaver** (2026), “Interpreting Algorithmic Information Cues: User Sensemaking of Search Autocomplete Moderation,” *Journal of the Association for Information Science and Technology (JASIST)*, 1-14. DOI: [`10.1002/asi.70092`](https://doi.org/10.1002/asi.70092) 
