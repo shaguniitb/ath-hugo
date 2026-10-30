@@ -14,7 +14,10 @@ links:
 - name: Medium blog
   url: https://medium.com/@shagunjhaver/interpreting-algorithmic-information-cues-user-sensemaking-of-search-autocomplete-moderation-e6fe163339f9  
   icon: fab fa-medium    
-- name: Information Matters
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7512538 
+  icon: ai ai-ssrn-square
+- name: Information Matters Blog
   url: https://informationmatters.org/2026/05/users-perspectives-on-content-moderation-of-web-search-autocomplete-suggestions/ 
   icon: fas fa-newspaper
   
@@ -32,7 +35,8 @@ haiku: >-
 - [Paper (preprint)](jhaver-2026-autocomplete-moderation.pdf)
 - [Wiley link](https://doi.org/10.1002/asi.70092)
 - [Medium](https://medium.com/@shagunjhaver/interpreting-algorithmic-information-cues-user-sensemaking-of-search-autocomplete-moderation-e6fe163339f9)
-
+- [Information Matters SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7512538)
+- [Information Matters Blog](https://informationmatters.org/2026/05/users-perspectives-on-content-moderation-of-web-search-autocomplete-suggestions/)
 
 
 ## Abstract
