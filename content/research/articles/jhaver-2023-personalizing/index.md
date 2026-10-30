@@ -14,6 +14,9 @@ links:
 - name: Medium blog
   url: https://medium.com/acm-cscw/personalizing-content-moderation-on-social-media-sites-f2543e62d2fb 
   icon: fab fa-medium  
+award:  
+  status: Featured Article, PACMHCI
+  icon: fas fa-crown    
 citation: >-
   **Shagun Jhaver**, Alice Qian Zhang, Quan Ze Chan, [Nikhila Natarajan](https://comminfo.rutgers.edu/natarajan-nikhila), [Ruotong Wang](https://homes.cs.washington.edu/~ruotongw/), and [Amy X. Zhang](https://homes.cs.washington.edu/~axz/) (2023), “Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor,” *Proc. ACM Hum.-Comput. Interact. 7*, CSCW2, Article 289 (October 2023), 33 pages, DOI: [`10.1145/3610080`](https://dl.acm.org/doi/10.1145/3610080) 
 haiku: >-
@@ -25,6 +28,7 @@ haiku: >-
 - [Paper (preprint)](jhaver-2023-personalizing.pdf)
 - [ACM Digital Library link](https://dl.acm.org/doi/10.1145/3610080)
 - [Medium Blog that summarizes this paper](https://medium.com/acm-cscw/personalizing-content-moderation-on-social-media-sites-f2543e62d2fb)
+- [Featured Article, PACMHCI](PACMHCI_First_impact_factor.jpeg)
 
 ## Abstract
 
